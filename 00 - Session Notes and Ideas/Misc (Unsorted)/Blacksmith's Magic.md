@@ -1,0 +1,7 @@
+A hypothesis among some magic scholars, that the practice of caring and putting your thought and attention on something you are intentionally making imparts a kind of magic on to that thing. This is why handmade armor tends to protect against magical attacks, as it contains a trace of abjuration magic from the intent and care of the crafter. This can be observed by the fact that despite being far easier to make, any assembly line attempt at armor tends to fail quicker and go out of business. Such armor offers less protection, and thus are not favored by fighters who tend to survive. As those who tend to survive had handmade armor.
+
+Scholar and Candy Mogul Quilsharpe Dortak Brushcleaner goes further "This is why mothers home made meals are always better than the best café or restaurant in town. The secret ingredient really is love."
+
+Other scholars have dismissed this as the product of confirmation bias. As professor Draurcap Jarwede Panduster at Telefax University argues: "It could be that we are seeing that people with home made armor succeed, because those people likely had the resources for home made training, and home made hospital visits as well."
+
+This plays well with the old Dwarfish belief of "Tool Ginni"

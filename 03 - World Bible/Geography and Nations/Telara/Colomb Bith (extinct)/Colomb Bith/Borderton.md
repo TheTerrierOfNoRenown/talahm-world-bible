@@ -1,0 +1,1 @@
+Borderton is a boomtown that stabilized, an adventurers hub just outside of Colomb Bith, meant for resupplying, resting, and assigning of Expedition routes. Borderton is overseen by the Supervisor, the head of the Knightly Order of the Waking Dream.

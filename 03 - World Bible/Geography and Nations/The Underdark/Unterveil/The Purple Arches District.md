@@ -1,0 +1,2 @@
+![[The Purple Arches District.png]]
+The Purple Arches District is a residential neighborhood in [[Unterveil]]. Regarded as the [[Animal Kind]] district in Unterveil, it is the place where the Myconid have carved out for living of non-fungal species. This is the home of [[The Broken Lantern]], and [[Solvig Wrenches]].

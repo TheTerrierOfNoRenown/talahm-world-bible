@@ -1,0 +1,16 @@
+/*
+author: zamsyt
+source: https://discord.com/channels/686053708261228577/702656734631821413/1076475103006687232
+*/
+
+:is(.cm-table-widget, .markdown-preview-section > div):has(+ * .left-thead) th {
+  font-weight: unset;
+}
+:is(.cm-table-widget, .markdown-preview-section > div):has(+ * .left-thead)
+  > table
+  > *
+  > tr
+  > :first-child {
+  font-weight: var(--table-header-weight);
+  background-color: var(--background-secondary);
+}

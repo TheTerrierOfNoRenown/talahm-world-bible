@@ -1,0 +1,92 @@
+{
+  "size": {
+    "w": 497,
+    "h": 610
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_6ebs1n",
+      "x": 0.7666816245077537,
+      "y": 0.7287317573723932,
+      "layer": "default",
+      "link": "The Unwanted Adventurer's Agency",
+      "iconKey": "pinRed",
+      "tooltip": "The Unwanted Adventurer's Agency",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_12mk4z",
+      "x": 0.7272695988212065,
+      "y": 0.6041318906973959,
+      "layer": "default",
+      "link": "The Broom Closet",
+      "iconKey": "pinRed",
+      "tooltip": "The Broom Closit",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_vhpf22",
+      "x": 0.7992826363485304,
+      "y": 0.6567351960070671,
+      "layer": "default",
+      "link": "The Cart Park",
+      "iconKey": "pinRed",
+      "tooltip": "The Cart Park",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_3d9nu0",
+      "x": 0.8203899059686081,
+      "y": 0.59806227854628,
+      "layer": "default",
+      "link": "As-Motie-Us",
+      "iconKey": "pinRed",
+      "tooltip": "As-Motie-Us",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_jfs7cf",
+      "x": 0.5227463642231299,
+      "y": 0.6300494507082938,
+      "layer": "default",
+      "link": "Burg Fritz",
+      "iconKey": "pinRed",
+      "tooltip": "Burg Fritz",
+      "tooltipAlwaysOn": true
+    }
+  ],
+  "bases": [
+    "Pictures/Maps/Map of Briarbrook.png"
+  ],
+  "overlays": [],
+  "activeBase": "Pictures/Maps/Map of Briarbrook.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

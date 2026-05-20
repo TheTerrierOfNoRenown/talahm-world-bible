@@ -1,0 +1,3 @@
+Don't let the Magicians in their tower fool you: Academic Magic with its orders and institutions are not the only form of magic. Older, more primal forms exist, ones still practiced by Soothsayers, Mediums, and Herbalists. The Magicians call us "Unrefined" we call ourselves more natural, less disruptive to the workings of the Weave.
+ 
+Hedge Witches have existed as medicine people, midwives, and shamans for millennia. Often pejoritively called "Druids" evoking centuries old religious practices instead of the study and word of mouth traditions we actually represent. We are old wisdom here still to challenge the hegemony of the Magicians.

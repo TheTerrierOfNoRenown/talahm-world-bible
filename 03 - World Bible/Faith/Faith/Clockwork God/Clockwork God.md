@@ -1,0 +1,5 @@
+Rumors speak of some Constructs, awakened to the power of miracles. Further rumors speak of a whole sect of constructs who have begun worshiping a being they refer to as "The Clockwork God". Very little is known about this new deity, but that his clerics contain mighty and divine power is no longer of debate.
+ 
+The Clockwork God is a Cult Deity believed by certain segments of the Construct population. It is based in a belief in the order of the universe, called the great machine, tended to by a greater machine known as the Clockwork God.
+ 
+The Clockwork God is a Monotheistic Cult Deity, able to contain all domains within itself, called "Clusters" believe to be aspects the Clockwork of the Universe, to which all is a part of. By tapping into these "Clusters", "Tuners" of the Clockwork God are able to access the assembly language of the universe and output affects.

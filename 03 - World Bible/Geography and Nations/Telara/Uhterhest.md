@@ -1,0 +1,1 @@
+A nation on the West End of Telara, A scant 100 years ago it was the Greatest Empire the world has ever seen, it was said that the whole of Uhterhest never truly knew nights. But that was a century ago. An empire in waning, many of its colonies rebelling, and times changing, Uhterhest mainly now refers the Peninsula Nation of the Uhterhest Kingdom (UK).

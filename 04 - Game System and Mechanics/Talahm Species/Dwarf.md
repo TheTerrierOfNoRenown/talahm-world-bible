@@ -1,0 +1,50 @@
+**Along with Humans and Gnomes, Dwarfs are the founding species of civilization. But talk to a Dwarf and they would say they are THE founding species of civilization, as theirs can stretch back to the ancient epochs. It is true the foundation of law and civilizations was laid by the Dwarfs, and it is from that first strike upon the anvil that all others have been modeled.**
+ 
+**Founder Species.** Dwarfs are one of the three founder species of most societies, especially the Telustravaulte species of the mainland of Talahm. Because of this they often occupy a space of privilege within society as spaces and conventions are made to accommodate them. This means of course that most societies have universal Dwarfish suffrage, but on the other hand Dwatfs can often be blind to how society treats them better than others.
+ 
+**Architects of Society**. [_Rule 18: Honore the ordere of thine owne societie_] The first mortal societies on Talahm were found to have been Dwarfish, mostly in the form of small cave networks with small hints of a possible legal structure. Dwarfs tend to find themselves as part of most governments, from minor bureaucratic positions, up to entire royal families or Presidential Cabinets. Dwarfish law itself is famously Byzantine and complicated. This is why most human influence in legal structures is to make them more flexible.
+ 
+**A Love of Beards.** [_Rule 12: Care fore thine bearde, as it showes you take care of youselfe_] The Beard is a central figure in Dwarfish Culture. Dwarfs of all genders tend to wear a beard, and style and care guides for masculine and feminine beards are common within Dwarfish Culture. The beard is considered somewhat of a sex symbol. Having a large, well kept beard is often considered desirable and attractive to Dwarfs, which they look for in both wives and husbands. And while individuals may vary, it is often seen among Dwarfish circles that the lack of a beard denotes a lack of maturity.
+ 
+**Tool Ginni.** [_Rule 8: Care fore your tooles as they care fore you_] Dwarfish significance on tools, especially tools of the trade often comes off as pseudomystical. Thus the common practice of naming your clan after tools. This quasispiritual concept of "Tool Ginni" comes from the Dwarfish belief that tools contain a kind of magic that is imbued through the care of its creation, and thus can imbue through care. This is very similar to the folk belief of "Blacksmith Magic" where it is believed that the intention and care of creating something imbues a kind of magic to the thing, making it higher quality. This is often dismissed as hokum and superstition outside of those who believe it, though recent studies coming out of Panduster Technical Institute have found that intentionally made products tend to last longer than they should, giving believers in Tool Ginni some vindication. Because of this believe, Dwarfs tend to keep significant or long lasting tools on display after retirement, almost venerating them.
+ 
+**A Reputation for Reliability.** _[Rule 1: Keepe tru to yur word_] _“_regular as a dwarf” is a saying for a reason. Dwarfs are creatures of routine. While individuals may vary, Dwarf daily activities are often identical, with rare variation. A Dwarfish culture of routine, order, and reliability is part of what lead them to building the first mortal legal structures. It is considered extremely rude in Dwarfish culture to cancel appointments, regardless of the reason. Entire feuds and wars have been fought over snubbing others on important meetings. And while dwarfs are more patient with other species regarding this, the surest way to annoy a Dwarf is to be late.
+ 
+**A Love of Tradition.** [_Rule 12: Honore tha Traditions uf your fathers and mothers as well as your_ owne] Dwarfs are famous for their traditions and routines. Traveling with a Dwarf is often considered an ordeal because of the dozens of traditions and rituals Dwarfs have to undergo. It is said that most Dwarfs require two weeks before a long journey because of all of the visits, celebrations, and rituals they must undergo before departure. This is of course a ridiculous exaggeration, a week is generally sufficient. At some point a common folk tradition came in the form of a 6 century old self-help book entitled _786 Rules for an effectife lifing._ While it’s uncommon to memories all 786 rules, Dwarfs traditionally know a few Dozen.
+ 
+**Dwarfish Bigomy.** [_Rule 238: Always ensure your Wife is cared for on one hand, and your Husband cared for in the other._] While arrangements vary from person to person, the traditional Dwarfish relationship structure is every Dwarf has a Husband AND a Wife. The ideal order of a Power Thruple is prized but rarely accomplished. It is not untypical to have a Dwarfish Wife-Husband chain of 10 or 15 Dwarfs before they loop back in one way or the other. This marriage structure is often referred to as a "Wedding Chain" in Dwarfish society. In fact the city of Limewall is entirely composed of one single marriage unit plus a lone Dwarf named Greg. As a result of this configuration Dwarfish families tend to be incredibly large. The terms “Tristor, Trother, Tribling, Trun, Traughter, and Trild” have been coined to refer to a wife, husband, or partner in the chain that is not directly in a relationship with you.
+ 
+**Religion**. [_Rule 58: To the Scattered God paye his honoreings_] Dwarfs tend to worship the Scattered God and his many facets. Specifically Dwarfs are most usually parishioners of the Illuminated Church, the largest Scattered Sect, often being attracted to its long history and traditional structure. While individual Dwarfs may vary on beliefs and practice, there is a lot of significance to the Illuminated Church within Dwarfish Culture. Bearers in Churches tend to have honored spots in meetings and gatherings, and ceremonies from the Illuminated Church play part in festivities. While many Dwarfs may have a hard time making every vigil, most Dwarfs have a beloved family member who makes every Vigil like clockwork.
+ 
+**Age.** Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
+ 
+**Alignment.** As the proud founders of civilization, Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
+ 
+**Naming Conventions.** Dwarfs tend to pick names that match with the society they are reared in. Those of the Vassal States tend to name their children things like: "John, Joseph, David, Brian" etc. Whereas those from Terprarie tend to have names like "Francois, Jean, Michel, Sacha", it is not immediately obvious based on first name whether the person is Human or Dwarf, though Dwarfs tend to prefer surnames related to tools, given the common belief around Tool Ginni. Splitaxe, Stonechisel, Breakhammer, Bonesaw are all known Dwarfish Clans.
+ 
+**Dwarfish Clans.** A significant section of Dwarf Legal structures are around Clans. Clans are large family structures made from Wedding Chains, and extended family. Because of their large families Dwarfish Clan structure can be labyrinthine and difficult to navigate. In addition to a surname, most Dwarfs also have a Clan Name, and these Clan names, instead of being named after tools are generally named after projects, such as cities. The Mah'r Clan boasts more that 10,000 members strong.
+ 
+## Dwarfish Traits
+
+**Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.  
+**Speed.** Your base walking speed is 30 feet. Your speed is not reduced by wearing heavy armor.  
+**Darkvision.** A vestigial trait from when Dwarfish civilizations lay underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+ 
+As a Dwarf you have these Special Traits.
+ 
+**Dwarfish Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.  
+**Stonecunning.** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked.  
+**Dwarfish Toughness.** Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.  
+**Languages.** You can speak, read, and write Common and Dwarfish. Dwarfish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+
+## City Dwarf
+
+**The Dwarfs that have grown accustomed to the increasing urbanization of city life. While some less useful, vestigial traits have slowly selected, new more useful traits for modern society have taken their place.**
+
+- **Lose Dwarfish Toughness and Darkvision**
+- **Ability Score Increase.** Your Charisma increases by 2
+- **Modern Education**. City Dwarfs may make a knowledge check at a +5 DC if they do not possess the necessary background to make such knowledge checks.
+ 
+## Duergar
+
+**Having split from Dwarfish culture eons ago, Duergar are often culturally in opposition to Dwarfs. Whereas Dwarfs care much about Tradition, Duergar are more ambivalent about such matter, while both believe in Tool Ginni, Duergar are less reverend about tools. Duergar are social, having large families, and larger gatherings. Duergar, suspicious of the Scattered God, rather believe in a more informal spiritual tradition around ancestor reverence but particularly a set of governing spirits that they do not worship, but invoke.**

@@ -1,0 +1,106 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/spell/list/school/transmutation
+aliases:
+- "Transmutation Spells"
+---
+# Transmutation Spells
+
+## Cantrip
+
+- [Druidcraft](druidcraft-xphb.md "XPHB")
+- [Elementalism](3-Mechanics/CLI/spells/elementalism-xphb.md "XPHB")
+- [Mending](mending-xphb.md "XPHB")
+- [Message](message-xphb.md "XPHB")
+- [Prestidigitation](prestidigitation-xphb.md "XPHB")
+- [Shillelagh](shillelagh-xphb.md "XPHB")
+- [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB")
+- [Thorn Whip](thorn-whip-xphb.md "XPHB")
+
+## 1st Level
+
+- [Create or Destroy Water](create-or-destroy-water-xphb.md "XPHB")
+- [Divine Favor](divine-favor-xphb.md "XPHB")
+- [Expeditious Retreat](3-Mechanics/CLI/spells/expeditious-retreat-xphb.md "XPHB")
+- [Feather Fall](feather-fall-xphb.md "XPHB")
+- [Jump](jump-xphb.md "XPHB")
+- [Longstrider](longstrider-xphb.md "XPHB")
+- [Purify Food and Drink](purify-food-and-drink-xphb.md "XPHB")
+
+## 2nd Level
+
+- [Alter Self](alter-self-xphb.md "XPHB")
+- [Barkskin](barkskin-xphb.md "XPHB")
+- [Blindness/Deafness](blindness-deafness-xphb.md "XPHB")
+- [Cordon of Arrows](cordon-of-arrows-xphb.md "XPHB")
+- [Darkvision](darkvision-xphb.md "XPHB")
+- [Dragon's Breath](dragons-breath-xphb.md "XPHB")
+- [Enhance Ability](3-Mechanics/CLI/spells/enhance-ability-xphb.md "XPHB")
+- [Enlarge/Reduce](enlarge-reduce-xphb.md "XPHB")
+- [Heat Metal](3-Mechanics/CLI/spells/heat-metal-xphb.md "XPHB")
+- [Knock](knock-xphb.md "XPHB")
+- [Levitate](levitate-xphb.md "XPHB")
+- [Magic Weapon](magic-weapon-xphb.md "XPHB")
+- [Rope Trick](rope-trick-xphb.md "XPHB")
+- [Shining Smite](shining-smite-xphb.md "XPHB")
+- [Spider Climb](spider-climb-xphb.md "XPHB")
+- [Spike Growth](spike-growth-xphb.md "XPHB")
+
+## 3rd Level
+
+- [Blink](blink-xphb.md "XPHB")
+- [Elemental Weapon](3-Mechanics/CLI/spells/elemental-weapon-xphb.md "XPHB")
+- [Fly](fly-xphb.md "XPHB")
+- [Gaseous Form](gaseous-form-xphb.md "XPHB")
+- [Haste](3-Mechanics/CLI/spells/haste-xphb.md "XPHB")
+- [Lightning Arrow](lightning-arrow-xphb.md "XPHB")
+- [Meld into Stone](meld-into-stone-xphb.md "XPHB")
+- [Plant Growth](3-Mechanics/CLI/spells/plant-growth-xphb.md "XPHB")
+- [Slow](3-Mechanics/CLI/spells/slow-xphb.md "XPHB")
+- [Speak with Plants](speak-with-plants-xphb.md "XPHB")
+- [Water Breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md "XPHB")
+- [Water Walk](water-walk-xphb.md "XPHB")
+
+## 4th Level
+
+- [Control Water](control-water-xphb.md "XPHB")
+- [Fabricate](fabricate-xphb.md "XPHB")
+- [Polymorph](polymorph-xphb.md "XPHB")
+- [Stone Shape](stone-shape-xphb.md "XPHB")
+- [Stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md "XPHB")
+
+## 5th Level
+
+- [Animate Objects](animate-objects-xphb.md "XPHB")
+- [Awaken](awaken-xphb.md "XPHB")
+- [Passwall](3-Mechanics/CLI/spells/passwall-xphb.md "XPHB")
+- [Swift Quiver](swift-quiver-xphb.md "XPHB")
+- [Telekinesis](telekinesis-xphb.md "XPHB")
+
+## 6th Level
+
+- [Disintegrate](disintegrate-xphb.md "XPHB")
+- [Flesh to Stone](flesh-to-stone-xphb.md "XPHB")
+- [Move Earth](move-earth-xphb.md "XPHB")
+- [Wind Walk](wind-walk-xphb.md "XPHB")
+
+## 7th Level
+
+- [Regenerate](regenerate-xphb.md "XPHB")
+- [Reverse Gravity](reverse-gravity-xphb.md "XPHB")
+- [Sequester](sequester-xphb.md "XPHB")
+
+## 8th Level
+
+- [Animal Shapes](animal-shapes-xphb.md "XPHB")
+- [Control Weather](3-Mechanics/CLI/spells/control-weather-xphb.md "XPHB")
+- [Earthquake](earthquake-xphb.md "XPHB")
+
+## 9th Level
+
+- [Shapechange](shapechange-xphb.md "XPHB")
+- [Time Stop](time-stop-xphb.md "XPHB")
+- [True Polymorph](3-Mechanics/CLI/spells/true-polymorph-xphb.md "XPHB")

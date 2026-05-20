@@ -1,0 +1,485 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Dominion of Light Calander",
+      "description": "Denoted by \"DL\", this is the calendar for the current era of the majority of Talahm. Day 1 is believed to be the founding of the Illuminated Church",
+      "id": "ID_abe8690b88ea",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Bright Day",
+            "id": "ID_aba9f9cb3938"
+          },
+          {
+            "type": "day",
+            "name": "Jaunt Day",
+            "id": "ID_fad82bd80a39"
+          },
+          {
+            "type": "day",
+            "name": "Wayfare Day",
+            "id": "ID_783a6b488aa9"
+          },
+          {
+            "type": "day",
+            "name": "Lead Day",
+            "id": "ID_787bdb5ab89b"
+          },
+          {
+            "type": "day",
+            "name": "Follow Day",
+            "id": "ID_9baaa9ba1828"
+          },
+          {
+            "type": "day",
+            "name": "Straggle Day",
+            "id": "ID_e82a0809dafa"
+          },
+          {
+            "type": "day",
+            "name": "Last Day",
+            "id": "ID_2aba38f8d988"
+          },
+          {
+            "type": "day",
+            "name": "Dark Day",
+            "id": "ID_4be99a4b18e9"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Reverie of Scattered Light",
+            "length": 30,
+            "id": "ID_daeb88bb9b18",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Lapis",
+            "length": 31,
+            "id": "ID_787aeaaac848",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Peridot",
+            "length": 31,
+            "id": "ID_f95baafb285a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Emerald",
+            "length": 29,
+            "id": "ID_0afb7898aa3b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Topaz",
+            "length": 33,
+            "id": "ID_bb898bb95aca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ruby",
+            "length": 31,
+            "id": "ID_b8bacb3a5848",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Garnet",
+            "length": 32,
+            "id": "ID_49d9d8f9d988",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Diamond",
+            "length": 31,
+            "id": "ID_fafa59faea08",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Reverie of Colomb Bith",
+            "length": 1,
+            "id": "ID_08c9f989b9f8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Quartz",
+            "length": 31,
+            "id": "ID_78e83ba94bbb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Amathyst",
+            "length": 34,
+            "id": "ID_79594bdb09fa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Spinel",
+            "length": 30,
+            "id": "ID_7b191899b91a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Reverie of the Lost Traveler",
+            "length": 1,
+            "id": "ID_2999fa6928ca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Opal",
+            "length": 33,
+            "id": "ID_2afaaaeb8adb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sapphire",
+            "length": 32,
+            "id": "ID_4a6b9978285a",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "L'œuvre",
+            "cycle": 29,
+            "offset": 4,
+            "faceColor": "#ddcfb1",
+            "shadowColor": "#000",
+            "id": "ID_4b4aeac92ad9"
+          },
+          {
+            "name": "Chœurs",
+            "cycle": 29,
+            "offset": 4,
+            "faceColor": "#6e90a0",
+            "shadowColor": "#000",
+            "id": "ID_da480adbeb69"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [
+          {
+            "id": "ID_c87b493848a9",
+            "name": "Stop Day",
+            "interval": [
+              {
+                "interval": 3,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 3,
+            "offset": 12,
+            "type": "leapday"
+          }
+        ],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_1bfa397a8bb8",
+            "name": "Spring",
+            "type": "Periodic",
+            "color": "#fcd9a9",
+            "duration": 102,
+            "peak": 48,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_98e92959081a",
+            "name": "Summer",
+            "type": "Periodic",
+            "color": "#a60737",
+            "duration": 102,
+            "peak": 48,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_0a0beb983b49",
+            "name": "Interstitial ",
+            "type": "Periodic",
+            "color": "#933c9f",
+            "duration": 3,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_78e97a6a792a",
+            "name": "Autumn ",
+            "type": "Periodic",
+            "color": "#97720c",
+            "duration": 102,
+            "peak": 48,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_db8aabaa181a",
+            "name": "Winter",
+            "type": "Periodic",
+            "color": "#f3edf0",
+            "duration": 101.3333333,
+            "peak": 48,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": 2005086898,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 18,
+        "month": 3,
+        "year": 1722
+      },
+      "events": [
+        {
+          "name": "Voyage of Chœurs",
+          "description": "A Voyage of Chœurs, where the second moon breaks off from the first and circumnavigates Talahm before rejoining.",
+          "date": {
+            "month": 4,
+            "day": 19,
+            "year": 1722
+          },
+          "id": "ID_5b0a7ab89bab",
+          "note": null,
+          "category": "ID_1ad85af8db78",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "month": 5,
+            "day": 15,
+            "year": 1722
+          }
+        },
+        {
+          "name": "Regicide Day",
+          "description": "The Celebration of the Death of the Crimson King",
+          "date": {
+            "month": 3,
+            "day": 22,
+            "year": [
+              1713,
+              null
+            ]
+          },
+          "id": "ID_b9abea68fb1b",
+          "note": null,
+          "category": "ID_2bfa1a9b5ae9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Festival of Broken Masks",
+          "description": "A date celebrating the death of the Red Tyrant by team the Broken Mask.",
+          "date": {
+            "month": 3,
+            "day": 8,
+            "year": [
+              1184,
+              null
+            ]
+          },
+          "id": "ID_b99a8bda6bcb",
+          "note": "03 - World Bible/Geography and Nations/Grovenvaulte/The United Federation of Vassal States/Teylis-Mah'r/Mah'r/The Festival of Broken Masks.md",
+          "category": "ID_0969d8a9c9aa",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Reverie of Colomb Bith",
+          "description": "This is the day of remembrance for the losses at Colomb Bith",
+          "date": {
+            "month": 8,
+            "day": 1,
+            "year": [
+              1135,
+              null
+            ]
+          },
+          "id": "ID_dbab1b69da9a",
+          "note": null,
+          "category": "ID_6bf9595a48a9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Reverie of Scattered Light",
+          "description": "A day of celebration for the new year and of all of creation",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_1adbdb0bba59",
+          "note": null,
+          "category": "ID_6bf9595a48a9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Reverie of the Lost Traveler",
+          "description": "A day of remembrance for a lost moon.",
+          "date": {
+            "month": 12,
+            "day": 1,
+            "year": [
+              1268,
+              null
+            ]
+          },
+          "id": "ID_7a8bdaebea59",
+          "note": null,
+          "category": "ID_6bf9595a48a9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_1ad85af8db78",
+          "color": "#000000",
+          "name": "Astronomical Event"
+        },
+        {
+          "id": "ID_2bfa1a9b5ae9",
+          "color": "#c50202",
+          "name": "National Holiday"
+        },
+        {
+          "id": "ID_7a69fa596b58",
+          "color": "#ededed",
+          "name": "Religious Holiday"
+        },
+        {
+          "id": "ID_0969d8a9c9aa",
+          "color": "#aaac2f",
+          "name": "Local Holiday"
+        },
+        {
+          "id": "ID_6bf9595a48a9",
+          "color": "#570a42",
+          "name": "Reveries"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD MMMM, YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_abe8690b88ea",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
