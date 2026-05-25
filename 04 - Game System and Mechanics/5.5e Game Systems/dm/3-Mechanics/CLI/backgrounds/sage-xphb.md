@@ -10,7 +10,7 @@ aliases:
 ---
 # Sage
 *Source: Player's Handbook (2024) p. 183. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](3-Mechanics/CLI/backgrounds/img/sage.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/sage.webp)
 
 - **Ability Scores.** Constitution, Intelligence, Wisdom  
 - **Feat.** [Magic Initiate](magic-initiate-xphb.md) (Wizard)  

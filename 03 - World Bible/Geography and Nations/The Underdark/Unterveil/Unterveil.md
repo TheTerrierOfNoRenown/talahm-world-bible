@@ -70,5 +70,5 @@ Apart from them, as part of the treaty, [[Teylis-Mah'r]] supplies funding and ov
 
 - [[Speaker]]
 - [[Brody Sloicht]]
-- [[Chief Steele]]
+- [[Radley Steele]]
 - [[Ren Boshkt]] 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Noble
 *Source: Player's Handbook (2024) p. 183*  
-![](3-Mechanics/CLI/backgrounds/img/noble.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/noble.webp)
 
 - **Ability Scores.** Strength, Intelligence, Charisma  
 - **Feat.** [Skilled](3-Mechanics/CLI/feats/skilled-xphb.md)  

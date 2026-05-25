@@ -29,7 +29,7 @@ The Unwanted Adventurer's Agency is located in [[Briarbrook]] at the corner of M
 
 ## Notable Members
 
-- [[Franklin David 1]] (owner) (founder)
+- [[Franklin David]] (owner) (founder)
 - [[3mb3r]] (defunct) (founder)
 - [[Gladys Belladonna]]
 - [[Battle Unit P-6K47 Pierce]]

@@ -9,14 +9,22 @@
 > | :--- | :--- |
 > | **Type** | Player Character |
 > | **Player** | John |
+> 
+> | |  |
+> | ---: | :--- |
 > | **Aliases** | Pierce |
 > | **Creature Type** | Humanoid |
 > | **Species** | Construct |
+> | **Gender** | Agender |
+> | **Pronouns** | He/Him|
 > | **Class** | Soldier (Battle Master) |
 > | **Age** | 13 |
 > | **Languages** | Common; Construct |
+> 
+> | |  |
+> | ---: | :--- |
 > | **Places** | [[Briarbrook]] |
-> | **Contacts** | [[Commander Thane]]<br>[[Franklin David 1]]<br>[[Emily Walcott]]<br>[[Deter Longtooth]]<br>[[Gladys Belladonna]]<br>[[Isaiah Wayfinder]] |
+> | **Contacts** | [[Commander Thane]]<br>[[Franklin David]]<br>[[Emily Walcott]]<br>[[Deter Longtooth]]<br>[[Gladys Belladonna]]<br>[[Isaiah Wayfinder]] |
 > | **Organizations** | [[The Red Rebellion]] (former)<br>[[Alliance Army]] (former)<br>[[The Unwanted Adventurer's Agency]] |
 > | **Profession** | Adventurer |
 
@@ -38,3 +46,4 @@ Pierce is a long term employee of [[The Unwanted Adventurer's Agency]], and a st
 ## Background
 
 Pierce was assembled 7 Topaz DL 1709, in the [[Rivetshaver Inc.]] factory in [[Helensberg, Ronde]] is what is now continues to be the [[The United Federation of Vassal States]] but at the time was the territory of the [[Crimson Empire]]. He served as footsoldier in the [[The Red Rebellion|Crimson Army]] until [[The Construct Awakening]] on 02 Sapphire DL 1710. Following his awakening Pierce immediately defected, soon finding himself in the squad of [[Commander Thane]], where he served dutifully fighting the Crimson king until [[Regicide Day]] on 22 Emerald DL 1713.
+

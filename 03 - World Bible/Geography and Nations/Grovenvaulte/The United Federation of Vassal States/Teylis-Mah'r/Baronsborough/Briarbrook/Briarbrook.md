@@ -71,7 +71,7 @@ Founded in DL 1412
 ## Map
 
 ```zoommap
-image: Pictures/Maps/Map of Briarbrook.png
+image: Pictures/Maps/Map of Briarbrook.webp
 # markers is optional; defaults to <image>.markers.json
 # markers: Assets/Map.jpg.markers.json
 

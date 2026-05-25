@@ -10,7 +10,7 @@ aliases:
 ---
 # Hermit
 *Source: Player's Handbook (2024) p. 182*  
-![](3-Mechanics/CLI/backgrounds/img/hermit.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/hermit.webp)
 
 - **Ability Scores.** Constitution, Wisdom, Charisma  
 - **Feat.** [Healer](3-Mechanics/CLI/feats/healer-xphb.md)  

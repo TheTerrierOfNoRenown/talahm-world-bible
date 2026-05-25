@@ -10,8 +10,7 @@ aliases:
 ---
 # Wayfarer
 *Source: Player's Handbook (2024) p. 185*  
-![](3-Mechanics/CLI/backgrounds/img/wayfarer.webp#right)
-
+![[wayfarer.webp]]
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
 - **Feat.** [Lucky](3-Mechanics/CLI/feats/lucky-xphb.md)  
 - **Skill Proficiencies.** [Insight](skills.md#Insight), [Stealth](skills.md#Stealth)  

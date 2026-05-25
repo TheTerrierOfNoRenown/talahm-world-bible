@@ -10,7 +10,7 @@ aliases:
 ---
 # Merchant
 *Source: Player's Handbook (2024) p. 182*  
-![](3-Mechanics/CLI/backgrounds/img/merchant.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/merchant.webp)
 
 - **Ability Scores.** Constitution, Intelligence, Charisma  
 - **Feat.** [Lucky](3-Mechanics/CLI/feats/lucky-xphb.md)  

@@ -1,0 +1,70 @@
+{
+  "size": {
+    "w": 497,
+    "h": 610
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_fmroi7",
+      "x": 0.7703592400947691,
+      "y": 0.7329725770549724,
+      "layer": "default",
+      "link": "The Unwanted Adventurer's Agency",
+      "iconKey": "pinRed",
+      "tooltip": "The Unwanted Adventurer's Agency",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_lfkjr6",
+      "x": 0.7298140169318883,
+      "y": 0.6165116162991997,
+      "layer": "default",
+      "link": "The Broom Closet",
+      "iconKey": "pinRed",
+      "tooltip": "The Broom Closet",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_zrom9u",
+      "x": 0.5183996390111429,
+      "y": 0.6296221385369969,
+      "layer": "default",
+      "link": "Burg Fritz",
+      "iconKey": "pinRed",
+      "tooltip": "Burg Fritz",
+      "tooltipAlwaysOn": true
+    }
+  ],
+  "bases": [
+    "Pictures/Maps/Map of Briarbrook.webp"
+  ],
+  "overlays": [],
+  "activeBase": "Pictures/Maps/Map of Briarbrook.webp",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

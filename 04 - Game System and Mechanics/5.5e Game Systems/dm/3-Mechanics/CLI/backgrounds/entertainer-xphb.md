@@ -10,7 +10,7 @@ aliases:
 ---
 # Entertainer
 *Source: Player's Handbook (2024) p. 180*  
-![](3-Mechanics/CLI/backgrounds/img/entertainer.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/entertainer.webp)
 
 - **Ability Scores.** Strength, Dexterity, Charisma  
 - **Feat.** [Musician](3-Mechanics/CLI/feats/musician-xphb.md)  

@@ -1,5 +1,456 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Bailey Sloicht",
+      {
+        "name": "Bailey Sloicht",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Any Race",
+        "alignment": "Any Alignment",
+        "ac": 14,
+        "hp": 22,
+        "hit_dice": "2d12 + 4",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          15,
+          8,
+          10,
+          12
+        ],
+        "saves": [
+          {
+            "Strength": 5
+          },
+          {
+            "Constitution": 4
+          }
+        ],
+        "skills": [
+          "Animal Handling: 2",
+          "Survival: 1"
+        ],
+        "damage_resistances": "bludgeoning, piercing, and slashing",
+        "languages": "Common",
+        "cr": "1",
+        "traits": [
+          {
+            "name": "Danger Sense",
+            "desc": "The barbarian has advantage on Dexterity saving throws against effects that it can see while it is not Blinded, Deafened, or Incapacitated."
+          },
+          {
+            "name": "Reckless",
+            "desc": "At the start of its turn, the barbarian can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Barbed Baseball Bat",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) bludgeoning damage plus 2 magic bonus damage."
+          }
+        ],
+        "image": "Bailey.png"
+      }
+    ],
+    [
+      "Gretchen Sloicht",
+      {
+        "name": "Gretchen Sloicht",
+        "size": "Small",
+        "type": "humanoid",
+        "subtype": "Human",
+        "alignment": "Any Alignment",
+        "ac": 12,
+        "hp": 16,
+        "hit_dice": "3d6 + 6",
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          14,
+          14,
+          20,
+          14,
+          10
+        ],
+        "saves": [
+          {
+            "Intelligence": 7
+          },
+          {
+            "Wisdom": 4
+          }
+        ],
+        "languages": "Common, and any two other languages",
+        "cr": "1",
+        "traits": [
+          {
+            "name": "Arcane Restoration",
+            "desc": "During a short rest, the wizard regains the use of expended spells with a combined level of two or lower."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The wizard's spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The wizard is a 3rd level spellcaster and can cast the following wizard spells:\n\nCantrips (at will): firebolt, minor illusion, prestidigitation\n\n1/day each: blur, chromatic orb, grease, shield"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+          }
+        ],
+        "image": "Gretchen.png"
+      }
+    ],
+    [
+      "Brayson",
+      {
+        "name": "Brayson",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "Neutral",
+        "ac": 18,
+        "hp": 44,
+        "hit_dice": "44",
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          15,
+          16,
+          0,
+          14,
+          0
+        ],
+        "skills": [
+          "Insight: +2",
+          "Investigation: +2",
+          "Sleight of Hand: +2",
+          "Stealth: +2"
+        ],
+        "senses": "Vision 120 ft.",
+        "languages": "Common, Thieves' Cant, Undercommon, Myconid",
+        "cr": "0",
+        "traits": [
+          {
+            "name": "Fighting Style",
+            "desc": "Blind Fighting."
+          },
+          {
+            "name": "Hunter's Prey",
+            "desc": "Has chosen Horde Breaker: once per turn, can target a second creature within 5 feet of the first with the same weapon attack."
+          },
+          {
+            "name": "Multiattack",
+            "desc": "Makes two Shortsword attacks."
+          },
+          {
+            "name": "Relentless Endurance",
+            "desc": "When reduced to 0 hit points but not killed outright, drops to 1 hit point instead. Usable once per Long Rest."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Great Club",
+            "desc": "Melee Weapon Attack: reach 5 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage. Mastery - Push: If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller."
+          },
+          {
+            "name": "Rifle",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 80 ft., one target. Hit: Average damage. Mastery - Aimed: Critical hit on a natural roll of 19 or 20. Ammunition: 5/clip."
+          }
+        ],
+        "image": "Brayson.png"
+      }
+    ],
+    [
+      "Brody Sloicht",
+      {
+        "name": "Brody Sloicht",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "Neutral",
+        "ac": 15,
+        "hp": 51,
+        "hit_dice": "6d8 + 18",
+        "speed": "30 ft.",
+        "stats": [
+          5,
+          17,
+          16,
+          12,
+          12,
+          9
+        ],
+        "saves": [
+          {
+            "Dexterity": 6
+          },
+          {
+            "Intelligence": 4
+          }
+        ],
+        "skills": [
+          "Deception: +2",
+          "Insight: +4",
+          "Intimidation: +2",
+          "Performance: +2",
+          "Sleight of Hand: +6",
+          "Stealth: +6"
+        ],
+        "damage_resistances": "poison",
+        "languages": "Common",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Fighting Style",
+            "desc": "Blind Fighting."
+          },
+          {
+            "name": "Dwarven Resilience",
+            "desc": "Has Resistance to Poison damage and Advantage on saving throws against the Poisoned condition."
+          },
+          {
+            "name": "Cunning Action",
+            "desc": "As a Bonus Action, can take the Dash, Disengage, or Hide action."
+          },
+          {
+            "name": "Steady Aim",
+            "desc": "As a Bonus Action, gives itself Advantage on its next attack roll this turn. Its Speed becomes 0 until the end of that turn."
+          },
+          {
+            "name": "Stonecunning",
+            "desc": "Can cast Tremorsense with a range of 60 feet as a Bonus Action, lasting 10 minutes. Usable Proficiency Bonus times per Long Rest."
+          },
+          {
+            "name": "Sneak Attack",
+            "desc": "Once per turn, deals extra damage to a creature it hits with a Finesse or Ranged weapon attack if it has Advantage on the roll, or if an ally of the rogue is within 5 ft. of the target."
+          },
+          {
+            "name": "Assassinate",
+            "desc": "Has Advantage on Initiative rolls. During the first round of each combat, attacks against creatures that haven't acted yet are Critical Hits on a hit."
+          },
+          {
+            "name": "Cunning Strike",
+            "desc": "When dealing Sneak Attack damage, can spend one Sneak Attack die to apply an effect to the target: Disarm, Knock Prone, Poison, Push, or Trip. Each effect has a saving throw DC."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Rapier",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Mastery - Vex: On a hit, attacker has Advantage on its next attack roll against the same target before the end of its next turn."
+          },
+          {
+            "name": "Revolver",
+            "desc": "Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage. Mastery - Explode: Maximum on a damage dice roll again."
+          }
+        ],
+        "image": "Brody.png"
+      }
+    ],
+    [
+      "Shaver Cricks",
+      {
+        "name": "Shaver Cricks",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "Neutral",
+        "ac": 10,
+        "hp": 43,
+        "hit_dice": "5d8 + 15",
+        "speed": "30 ft.",
+        "stats": [
+          13,
+          0,
+          17,
+          0,
+          0,
+          18
+        ],
+        "skills": [
+          "Stealth: +2"
+        ],
+        "languages": "Common",
+        "cr": "0",
+        "traits": [
+          {
+            "name": "Fighting Style",
+            "desc": "Blind Fighting."
+          },
+          {
+            "name": "Ihanen Resilience",
+            "desc": "Has Resistance to Poison damage and Advantage on saving throws against the Poisoned condition."
+          },
+          {
+            "name": "Stonecunning",
+            "desc": "Can cast Tremorsense with a range of 60 feet as a Bonus Action, lasting 10 minutes. Usable Proficiency Bonus times per Long Rest."
+          },
+          {
+            "name": "Divine Order",
+            "desc": "Has chosen the Protector order: gains proficiency with martial weapons and Heavy armor. Also features Thaumaturge Eldritch Resilience: You have advantage on Constitution saving throws against spells."
+          },
+          {
+            "name": "Feats",
+            "desc": "Metamagic Adept - Learns 2 Metamagic options and gains 2 Sorcery Points (regained on a Long Rest)."
+          },
+          {
+            "name": "Channel Divinity",
+            "desc": "Has 2 uses (regained on a Short or Long Rest). Options include turning undead within 30 feet, Divine Spark (heals or deals radiant/necrotic damage on a failed CON save), and Blessing of the Trickster (touch an ally to grant Advantage on Stealth checks for 1 hour)."
+          },
+          {
+            "name": "Sear Undead",
+            "desc": "When using Channel Divinity against Undead, also deals force damage equal to 2d8 to each Undead that fails the save."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The cleric is a level 5 spellcaster using Charisma/Wisdom (spell save DC 15, to hit with spell attacks). Known spells:\n\nCantrips (at will): Guidance, Resistance\n\n1st Level Spells: Create or Destroy Water, Disguise Self, Inflict Wounds, Pass Without Trace, The Dead\n\n2nd Level Spells: Hold Person, Mirror Image"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage when used two-handed."
+          }
+        ],
+        "image": "Shaver.png"
+      }
+    ],
+    [
+      "Renard Manacle",
+      {
+        "name": "Renard Manacle",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "Any Alignment",
+        "ac": 16,
+        "hp": 43,
+        "hit_dice": "5d8 + 10",
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          16,
+          14,
+          13,
+          16,
+          20
+        ],
+        "skills": [
+          "Perception: +5",
+          "Persuasion: +7",
+          "Religion: +3"
+        ],
+        "languages": "Common, Language of the cult's patron",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Multiattack",
+            "desc": "The cultist makes three attacks, using Pact Blade or Radiant Ray (Eldritch Blast) in any combination."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The cultist casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 17, +7 to hit with spell attacks):\n\nAt will: mage armor, thaumaturgy\n\n1/day each: hunger of hadar, suggestion"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Pact Blade",
+            "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage plus 18 (4d8) radiant damage."
+          },
+          {
+            "name": "Eldritch Blast",
+            "desc": "Ranged Weapon Attack: +8 to hit, range 120 ft., one target. Fires two beams. Hit: 5 (1d10) force damage per beam."
+          }
+        ],
+        "image": "Renard.png"
+      }
+    ],
+    [
+      "Chief Radley Steele",
+      {
+        "name": "Chief Radley Steele",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Human",
+        "alignment": "Unaligned",
+        "ac": 20,
+        "hp": 52,
+        "hit_dice": "8d8 + 16",
+        "speed": "30 ft.",
+        "stats": [
+          20,
+          10,
+          14,
+          16,
+          10,
+          10
+        ],
+        "saves": [
+          {
+            "Strength": 8
+          },
+          {
+            "Constitution": 5
+          }
+        ],
+        "skills": [
+          "Arcana: +5",
+          "Athletics: +7"
+        ],
+        "languages": "Common",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Weapon Bond",
+            "desc": "Can't be disarmed unless Incapacitated. Battle Surge (Recharges after a Short or Long rest): Take an additional action to make either one weapon attack or cast a spell."
+          },
+          {
+            "name": "Battle Caster",
+            "desc": "Advantage on Constitution saving throws to maintain Concentration. Can use a reaction to cast a spell that targets only that creature, rather than making an Opportunity Attack."
+          },
+          {
+            "name": "Multiattack",
+            "desc": "Make either two melee or two ranged attacks, or cast a spell."
+          },
+          {
+            "name": "War Magic",
+            "desc": "After using an action to cast a cantrip, make one Longsword attack as a bonus action."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "8th level spellcaster. Ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Spells prepared:\n\nCantrips (at will): booming blade, fire bolt\n\n1st level (4 slots): expeditious retreat, shield, thunderwave\n\n2nd level (2 slots): misty step, scorching ray"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage."
+          },
+          {
+            "name": "Booming Blade (Cantrip)",
+            "desc": "Melee Cantrip Attack: Make a Longsword attack (+8 to hit) against one creature within 5 ft. Hit: 9 (1d8 + 5) slashing damage plus 9 (2d8) thunder damage. If the target willingly moves before the start of your next turn, it immediately takes an additional 2d8 thunder damage."
+          },
+          {
+            "name": "Fire Bolt (Cantrip)",
+            "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 11 (2d10) fire damage."
+          },
+          {
+            "name": "Scorching Ray (2nd-Level Spell)",
+            "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., up to three targets. Hit: 7 (2d6) fire damage per ray."
+          },
+          {
+            "name": "Thunderwave (1st-Level Spell)",
+            "desc": "Range Self, 15 ft. Cube, Constitution Save (DC 13). Hit: 18 (4d8) thunder damage and pushed 10 ft. away from you. Half damage and is not pushed on a successful save."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Shield (1st-Level Spell)",
+            "desc": "After being hit, gain a +5 bonus to AC for the triggering attack, continuing to the start of your next turn."
+          }
+        ],
+        "image": "Radley.png"
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",
@@ -15,10 +466,10 @@
   "paths": [
     "/"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": false,
   "tryToRenderLinks": true,
-  "debug": false,
+  "debug": true,
   "notifiedOfFantasy": false,
   "hideConditionHelp": false,
   "alwaysImport": false,

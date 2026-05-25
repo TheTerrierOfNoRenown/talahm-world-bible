@@ -10,7 +10,7 @@ aliases:
 ---
 # Guide
 *Source: Player's Handbook (2024) p. 181*  
-![](3-Mechanics/CLI/backgrounds/img/guide.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/guide.webp)
 
 - **Ability Scores.** Dexterity, Constitution, Wisdom  
 - **Feat.** [Magic Initiate](magic-initiate-xphb.md) (Druid)  
