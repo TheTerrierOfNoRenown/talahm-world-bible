@@ -1,0 +1,5 @@
+Sorcerers are magical prodigies, extremely adept Magicians who instinctually pull from the weave through the force of their will. Sorcerers often work in Academia as their unique perspective on magic is seen as valuable by other Magicians, but are often distant from their colleagues because the way they wield their magic is far more instinctual.
+ 
+Rumors have existed of bloodlines or pacts made by ancestors, but if such rumors are true little evidence exists of it. And while Sorcerer "Families" certainly exist, even among them Sorcerers are rare. For this reason it is very common for sorcerers to come from noble families, as noble lineages will intentionally seek out sorcerers to add to their bloodline, in hopes that it will produce sorcery offspring. However sorcery can and does appear throughout the population.
+ 
+In the great war sorcerers were often used by either side as one-person artillery, as their magic being more instinctual was found to be more useful in live ammo environments, and while other magic users were seen as valuable, very few worked on the front line as often as sorcerers.

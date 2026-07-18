@@ -1,0 +1,1 @@
+The Daefish Empire is a long fallen Empire from the late Iron Age of this world. Among the first Republics, the Daefish Empire rose to control most of the Continent of Telara, some of Valustra, and some of Grovenvaulte even as far as Mah'r. It is often spoken of in its historical context as one of the great ancient empires.

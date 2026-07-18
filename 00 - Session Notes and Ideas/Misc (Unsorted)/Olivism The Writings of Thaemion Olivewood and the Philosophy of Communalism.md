@@ -1,0 +1,5 @@
+Thaemion Olivewood was an Uhterhestian Economic Scholar who wrote between 1653 and his death in 1695, whose life goal was to scientifically categorize the trade behavior of the world. His writings, mostly on the state of Capitalism in Tamahn, specifically in Uhterhest and the Vassal States, is what inspired the philosophy of Communalism, to which Olivewood argued was how economics was trending, and would be the best possible scenario for society to trend toward.
+
+A much read and argued about aspect of Olivist writing is of course his writings on Communalism and his hypothesis on how such society will come about, and how they will approach major problems facing the working class, which Olivist Philosphers regard as the natural inheritors of society.
+
+Olivewood would live to see the first government, Baohu, to adopt a Communalist Party under the leadership of Commissioner Jing, but would die shortly after the Opal Revolution of 1693.

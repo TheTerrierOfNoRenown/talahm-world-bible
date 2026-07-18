@@ -1,0 +1,46 @@
+---
+tags:
+---
+
+> [!infobox|n-th|450]
+> ## ----------
+> ![[img-name.webp|center||400]]
+> 
+> | |  |
+> | ---: | :--- |
+> | **Type** | Non Player Character |
+> 
+> | |   |
+> | -: | :- | 
+> | **Aliases** | ---------- |
+> | **Creature Type** | ---------- |
+> | **Species** | ---------- |
+> | **Gender**  | ---------- |
+> | **Pronouns** | ---------- |
+> | **Class** | ---------- |
+> | **Age** | ---------- |
+> | **Languages** | ---------- |
+> | **Places** | [[----------]]<br>[[----------]] |
+> | **Contacts** | [[----------]]<br>[[----------]]<br>[[----------]]<br>[[----------]]<br>[[----------]] |
+> | **Organizations** | <br>[[----------]]<br>[[----------]] (former) |
+> | **Profession** | ---------- |
+
+----------
+
+## Appearance
+
+----------
+
+## Personality 
+
+----------
+
+## Associations
+
+----------
+## Background
+
+----------
+```statblock
+creature: Awakened Unit M-29G06 'Stitch'
+```

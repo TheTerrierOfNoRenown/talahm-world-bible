@@ -1,0 +1,1 @@
+"Animal Kind" is the Myconid term for all other non-Myconid species, when they grow a type that can communicate.

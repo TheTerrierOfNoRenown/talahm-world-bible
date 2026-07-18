@@ -1,0 +1,1077 @@
+/* ============================================================
+   THE GILDED CODEX — An Art Deco Theme for Obsidian.md
+   Designed for TTRPG worldbuilding & campaign notes
+   Classic Luxe palette: ivory, gold, emerald, navy
+   ============================================================ */
+
+/* ------- FONT IMPORTS ------- */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;900&family=Poiret+One&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+/* ============================================================
+   1. COLOR TOKENS & CORE VARIABLES
+   ============================================================ */
+.theme-light {
+  /* Palette — Classic Luxe */
+  --deco-ivory:        #f5ecd7;
+  --deco-ivory-warm:   #efe4c9;
+  --deco-cream:        #faf3e0;
+  --deco-parchment:    #e8dcbe;
+  --deco-gold:         #b08d3c;
+  --deco-gold-bright:  #d4af37;
+  --deco-gold-deep:    #8a6d28;
+  --deco-gold-pale:    #e6cf8a;
+  --deco-emerald:      #1f4a3a;
+  --deco-emerald-deep: #133024;
+  --deco-navy:         #1b2a4a;
+  --deco-navy-deep:    #0f1830;
+  --deco-burgundy:     #6b2626;
+  --deco-ink:          #2a2418;
+  --deco-ink-soft:     #4a3f28;
+
+  /* Background hierarchy */
+  --background-primary:        var(--deco-cream);
+  --background-primary-alt:    var(--deco-ivory);
+  --background-secondary:      var(--deco-ivory-warm);
+  --background-secondary-alt:  var(--deco-parchment);
+  --background-modifier-border: var(--deco-gold);
+  --background-modifier-border-hover: var(--deco-gold-bright);
+  --background-modifier-border-focus: var(--deco-emerald);
+  --background-modifier-hover:    rgba(176, 141, 60, 0.10);
+  --background-modifier-active-hover: rgba(176, 141, 60, 0.18);
+  --background-modifier-form-field: var(--deco-ivory);
+  --background-modifier-success: rgba(31, 74, 58, 0.15);
+  --background-modifier-error:   rgba(107, 38, 38, 0.15);
+
+  /* Text */
+  --text-normal:   var(--deco-ink);
+  --text-muted:    var(--deco-ink-soft);
+  --text-faint:    #7a6c4a;
+  --text-accent:   var(--deco-emerald);
+  --text-accent-hover: var(--deco-gold-deep);
+  --text-on-accent: var(--deco-cream);
+  --text-error:    var(--deco-burgundy);
+  --text-success:  var(--deco-emerald);
+  --text-selection: rgba(176, 141, 60, 0.30);
+
+  /* Interactive */
+  --interactive-normal:   var(--deco-ivory);
+  --interactive-hover:    var(--deco-parchment);
+  --interactive-accent:   var(--deco-emerald);
+  --interactive-accent-hover: var(--deco-gold);
+
+  /* Headings */
+  --h1-color: var(--deco-emerald-deep);
+  --h2-color: var(--deco-emerald);
+  --h3-color: var(--deco-navy);
+  --h4-color: var(--deco-gold-deep);
+  --h5-color: var(--deco-ink);
+  --h6-color: var(--deco-ink-soft);
+
+  /* Code */
+  --code-background: var(--deco-parchment);
+  --code-normal:     var(--deco-navy-deep);
+
+  /* Links */
+  --link-color: var(--deco-emerald);
+  --link-color-hover: var(--deco-gold-deep);
+  --link-unresolved-color: var(--deco-burgundy);
+
+  /* Scrollbar */
+  --scrollbar-bg: transparent;
+  --scrollbar-thumb-bg: var(--deco-gold-pale);
+  --scrollbar-active-thumb-bg: var(--deco-gold);
+}
+
+/* Dark variant — same palette, inverted hierarchy for night reading */
+.theme-dark {
+  --deco-ivory:        #f5ecd7;
+  --deco-cream:        #1a1612;
+  --deco-parchment:    #221c14;
+  --deco-gold:         #c9a23f;
+  --deco-gold-bright:  #e6c463;
+  --deco-gold-deep:    #8a6d28;
+  --deco-gold-pale:    #6b5320;
+  --deco-emerald:      #4a8a6e;
+  --deco-emerald-deep: #2a5a44;
+  --deco-navy:         #6a7eb8;
+  --deco-navy-deep:    #2a3a6a;
+  --deco-burgundy:     #b04848;
+  --deco-ink:          #e8dcbe;
+  --deco-ink-soft:     #c9b88e;
+
+  --background-primary:        #14110d;
+  --background-primary-alt:    #1a1612;
+  --background-secondary:      #221c14;
+  --background-secondary-alt:  #2a2218;
+  --background-modifier-border: var(--deco-gold-deep);
+  --background-modifier-border-hover: var(--deco-gold);
+  --background-modifier-border-focus: var(--deco-emerald);
+  --background-modifier-hover:    rgba(201, 162, 63, 0.12);
+  --background-modifier-active-hover: rgba(201, 162, 63, 0.20);
+  --background-modifier-form-field: #1a1612;
+
+  --text-normal:   var(--deco-ivory);
+  --text-muted:    var(--deco-ink-soft);
+  --text-faint:    #8a7a5a;
+  --text-accent:   var(--deco-gold);
+  --text-accent-hover: var(--deco-gold-bright);
+  --text-on-accent: #14110d;
+  --text-selection: rgba(201, 162, 63, 0.25);
+
+  --interactive-normal: #1a1612;
+  --interactive-hover:  #2a2218;
+  --interactive-accent: var(--deco-gold);
+  --interactive-accent-hover: var(--deco-gold-bright);
+
+  --h1-color: var(--deco-gold-bright);
+  --h2-color: var(--deco-gold);
+  --h3-color: var(--deco-emerald);
+  --h4-color: var(--deco-navy);
+  --h5-color: var(--deco-ivory);
+  --h6-color: var(--deco-ink-soft);
+
+  --code-background: #0f0c08;
+  --code-normal:     var(--deco-gold-pale);
+
+  --link-color: var(--deco-gold);
+  --link-color-hover: var(--deco-gold-bright);
+  --link-unresolved-color: var(--deco-burgundy);
+
+  --scrollbar-thumb-bg: var(--deco-gold-pale);
+  --scrollbar-active-thumb-bg: var(--deco-gold);
+}
+
+/* ============================================================
+   2. TYPOGRAPHY — Display, Body, Mono
+   ============================================================ */
+:root {
+  --font-text-theme:        'Cormorant Garamond', 'EB Garamond', Georgia, serif;
+  --font-interface-theme:   'EB Garamond', Georgia, serif;
+  --font-monospace-theme:   'JetBrains Mono', 'Fira Code', monospace;
+  --font-display:           'Cinzel', 'Trajan Pro', serif;
+  --font-display-thin:      'Poiret One', 'Cinzel', serif;
+
+  --font-text-size: 17px;
+  --line-height-normal: 1.7;
+}
+
+body {
+  --font-text:        var(--font-text-theme);
+  --font-interface:   var(--font-interface-theme);
+  --font-monospace:   var(--font-monospace-theme);
+}
+
+/* Body copy */
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-line,
+.cm-s-obsidian {
+  font-family: var(--font-text-theme);
+  font-size: var(--font-text-size);
+  line-height: var(--line-height-normal);
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+/* ============================================================
+   3. HEADINGS — Cinzel display with gold underlines
+   ============================================================ */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.HyperMD-header {
+  font-family: var(--font-display) !important;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.markdown-preview-view h1,
+.HyperMD-header-1 {
+  font-family: var(--font-display-thin) !important;
+  font-size: 2.6em !important;
+  font-weight: 400 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  text-align: center;
+  color: var(--h1-color) !important;
+  margin: 1.4em 0 0.8em;
+  padding-bottom: 0.5em;
+  position: relative;
+}
+
+.markdown-preview-view h1::after,
+.HyperMD-header-1::after {
+  content: "";
+  display: block;
+  width: 60%;
+  margin: 0.4em auto 0;
+  height: 3px;
+  background:
+    linear-gradient(90deg, transparent 0%, var(--deco-gold) 20%, var(--deco-gold-bright) 50%, var(--deco-gold) 80%, transparent 100%);
+  position: relative;
+}
+
+.markdown-preview-view h1::before {
+  content: "❖";
+  display: block;
+  text-align: center;
+  font-size: 0.45em;
+  color: var(--deco-gold);
+  margin-bottom: 0.3em;
+  letter-spacing: 1.5em;
+  text-indent: 1.5em;
+}
+
+.markdown-preview-view h2,
+.HyperMD-header-2 {
+  font-size: 1.9em !important;
+  letter-spacing: 0.12em;
+  color: var(--h2-color) !important;
+  border-bottom: 2px solid var(--deco-gold);
+  padding-bottom: 0.3em;
+  margin-top: 1.6em;
+  position: relative;
+}
+
+.markdown-preview-view h2::before,
+.HyperMD-header-2::before {
+  content: "";
+  position: absolute;
+  bottom: -2px; left: 0;
+  width: 40px; height: 2px;
+  background: var(--deco-emerald);
+}
+
+.markdown-preview-view h3,
+.HyperMD-header-3 {
+  font-size: 1.45em !important;
+  letter-spacing: 0.10em;
+  color: var(--h3-color) !important;
+  padding-left: 1.1em;
+  position: relative;
+}
+
+.markdown-preview-view h3::before,
+.HyperMD-header-3::before {
+  content: "◆";
+  position: absolute;
+  left: 0;
+  color: var(--deco-gold);
+  font-size: 0.7em;
+  top: 0.2em;
+}
+
+.markdown-preview-view h4,
+.HyperMD-header-4 {
+  font-size: 1.2em !important;
+  letter-spacing: 0.08em;
+  color: var(--h4-color) !important;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.markdown-preview-view h4::before,
+.HyperMD-header-4::before {
+  content: "— ";
+  color: var(--deco-gold);
+}
+
+.markdown-preview-view h5,
+.HyperMD-header-5 {
+  font-size: 1.05em !important;
+  font-variant: small-caps;
+  letter-spacing: 0.15em;
+  color: var(--h5-color) !important;
+}
+
+.markdown-preview-view h6,
+.HyperMD-header-6 {
+  font-size: 0.95em !important;
+  font-style: italic;
+  font-variant: small-caps;
+  color: var(--h6-color) !important;
+  letter-spacing: 0.12em;
+}
+
+/* ============================================================
+   4. DROP CAP — first letter of first paragraph after H1
+   ============================================================ */
+.markdown-preview-view h1 + p::first-letter {
+  font-family: var(--font-display);
+  font-size: 4.2em;
+  font-weight: 700;
+  float: left;
+  line-height: 0.85;
+  padding: 0.05em 0.12em 0 0;
+  margin-top: 0.05em;
+  color: var(--deco-emerald-deep);
+  text-shadow:
+    1px 1px 0 var(--deco-gold),
+    2px 2px 0 var(--deco-gold-pale);
+}
+
+.theme-dark .markdown-preview-view h1 + p::first-letter {
+  color: var(--deco-gold-bright);
+  text-shadow:
+    1px 1px 0 var(--deco-emerald-deep),
+    2px 2px 0 var(--deco-navy-deep);
+}
+
+/* ============================================================
+   5. HORIZONTAL RULES — Decorative deco dividers
+   ============================================================ */
+.markdown-preview-view hr,
+.cm-hmd-frontmatter ~ .HyperMD-hr {
+  border: none !important;
+  height: 28px;
+  margin: 2.2em auto;
+  position: relative;
+  background: none;
+}
+
+.markdown-preview-view hr::before {
+  content: "";
+  position: absolute;
+  top: 50%; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    var(--deco-gold) 15%,
+    var(--deco-gold-bright) 50%,
+    var(--deco-gold) 85%,
+    transparent 100%);
+}
+
+.markdown-preview-view hr::after {
+  content: "✦ ❦ ✦";
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--background-primary);
+  padding: 0 1em;
+  color: var(--deco-gold);
+  font-size: 1.1em;
+  letter-spacing: 0.5em;
+}
+
+/* ============================================================
+   6. BLOCKQUOTES — Gold trim on ivory
+   ============================================================ */
+.markdown-preview-view blockquote,
+.cm-s-obsidian .HyperMD-quote {
+  border-left: 3px double var(--deco-gold) !important;
+  background: var(--background-secondary);
+  padding: 1em 1.5em !important;
+  margin: 1.2em 0;
+  font-style: italic;
+  font-family: var(--font-text-theme);
+  color: var(--text-muted);
+  position: relative;
+  box-shadow: inset 0 0 0 1px rgba(176, 141, 60, 0.15);
+}
+
+.markdown-preview-view blockquote::before {
+  content: "“";
+  position: absolute;
+  top: -0.3em; left: 0.2em;
+  font-family: var(--font-display);
+  font-size: 3em;
+  color: var(--deco-gold);
+  opacity: 0.4;
+  line-height: 1;
+}
+
+/* ============================================================
+   7. LINKS
+   ============================================================ */
+.markdown-preview-view a,
+.cm-link, .cm-hmd-internal-link {
+  color: var(--link-color) !important;
+  text-decoration: none !important;
+  border-bottom: 1px dotted var(--deco-gold);
+  transition: all 0.2s ease;
+}
+
+.markdown-preview-view a:hover,
+.cm-link:hover, .cm-hmd-internal-link:hover {
+  color: var(--link-color-hover) !important;
+  border-bottom: 1px solid var(--deco-gold-bright);
+  background: rgba(176, 141, 60, 0.08);
+}
+
+.internal-link.is-unresolved {
+  color: var(--link-unresolved-color) !important;
+  border-bottom-style: dashed;
+  font-style: italic;
+}
+
+/* ============================================================
+   8. CALLOUTS — TTRPG-themed with deco frames
+   ============================================================ */
+.callout {
+  border-radius: 0 !important;
+  border: 1px solid var(--deco-gold) !important;
+  background: var(--background-secondary) !important;
+  padding: 0 !important;
+  margin: 1.4em 0;
+  position: relative;
+  box-shadow:
+    0 0 0 1px var(--background-primary),
+    0 0 0 2px var(--deco-gold-pale),
+    0 4px 18px rgba(42, 36, 24, 0.12);
+}
+
+/* Decorative corner ornaments */
+.callout::before,
+.callout::after {
+  content: "";
+  position: absolute;
+  width: 14px; height: 14px;
+  border: 2px solid var(--deco-gold);
+  pointer-events: none;
+}
+.callout::before {
+  top: -4px; left: -4px;
+  border-right: none; border-bottom: none;
+}
+.callout::after {
+  bottom: -4px; right: -4px;
+  border-left: none; border-top: none;
+}
+
+.callout-title {
+  background: linear-gradient(180deg,
+    var(--deco-emerald) 0%,
+    var(--deco-emerald-deep) 100%) !important;
+  color: var(--deco-cream) !important;
+  padding: 0.6em 1.1em !important;
+  font-family: var(--font-display) !important;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 0.95em;
+  border-bottom: 1px solid var(--deco-gold);
+  position: relative;
+}
+
+.callout-title::after {
+  content: "";
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg,
+    transparent, var(--deco-gold-bright), transparent);
+}
+
+.callout-title-inner {
+  font-family: var(--font-display) !important;
+  letter-spacing: 0.14em;
+}
+
+.callout-icon { color: var(--deco-gold-bright); }
+
+.callout-content {
+  padding: 1em 1.3em !important;
+  color: var(--text-normal);
+}
+
+/* --- TTRPG Custom Callouts --- */
+/* NPC */
+.callout[data-callout="npc"] .callout-title,
+.callout[data-callout="character"] .callout-title {
+  background: linear-gradient(180deg, var(--deco-burgundy), #4a1a1a) !important;
+}
+.callout[data-callout="npc"],
+.callout[data-callout="character"] {
+  border-color: var(--deco-burgundy) !important;
+}
+
+/* Location */
+.callout[data-callout="location"] .callout-title,
+.callout[data-callout="place"] .callout-title {
+  background: linear-gradient(180deg, var(--deco-navy), var(--deco-navy-deep)) !important;
+}
+.callout[data-callout="location"],
+.callout[data-callout="place"] {
+  border-color: var(--deco-navy) !important;
+}
+
+/* Item / Treasure */
+.callout[data-callout="item"] .callout-title,
+.callout[data-callout="treasure"] .callout-title,
+.callout[data-callout="loot"] .callout-title {
+  background: linear-gradient(180deg, var(--deco-gold), var(--deco-gold-deep)) !important;
+  color: var(--deco-ink) !important;
+}
+.callout[data-callout="item"],
+.callout[data-callout="treasure"],
+.callout[data-callout="loot"] {
+  border-color: var(--deco-gold-deep) !important;
+}
+
+/* Lore / History */
+.callout[data-callout="lore"] .callout-title,
+.callout[data-callout="history"] .callout-title {
+  background: linear-gradient(180deg, #4a3a1a, #2a1f0a) !important;
+}
+.callout[data-callout="lore"],
+.callout[data-callout="history"] {
+  border-color: #4a3a1a !important;
+}
+
+/* Quest */
+.callout[data-callout="quest"] .callout-title,
+.callout[data-callout="mission"] .callout-title {
+  background: linear-gradient(180deg, #6a4818, var(--deco-gold-deep)) !important;
+}
+
+/* Encounter / Combat */
+.callout[data-callout="encounter"] .callout-title,
+.callout[data-callout="combat"] .callout-title {
+  background: linear-gradient(180deg, #7a2424, var(--deco-burgundy)) !important;
+}
+.callout[data-callout="encounter"],
+.callout[data-callout="combat"] {
+  border-color: #7a2424 !important;
+}
+
+/* Secret / Hidden */
+.callout[data-callout="secret"] .callout-title,
+.callout[data-callout="hidden"] .callout-title {
+  background: linear-gradient(180deg, #2a1a3a, #1a1024) !important;
+}
+.callout[data-callout="secret"] .callout-content,
+.callout[data-callout="hidden"] .callout-content {
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+/* Session / Journal */
+.callout[data-callout="session"] .callout-title,
+.callout[data-callout="journal"] .callout-title {
+  background: linear-gradient(180deg, var(--deco-emerald), #0a2418) !important;
+}
+
+/* Magic / Spell */
+.callout[data-callout="magic"] .callout-title,
+.callout[data-callout="spell"] .callout-title {
+  background: linear-gradient(180deg, #4a2a6a, #2a1840) !important;
+}
+
+/* Statblock */
+.callout[data-callout="statblock"] {
+  background: var(--deco-parchment) !important;
+  font-family: var(--font-text-theme);
+}
+.callout[data-callout="statblock"] .callout-title {
+  background: linear-gradient(180deg, var(--deco-burgundy), #3a1010) !important;
+  text-align: center;
+}
+
+/* ============================================================
+   9. CODE BLOCKS — Inset parchment cards
+   ============================================================ */
+.markdown-preview-view code,
+.cm-inline-code {
+  font-family: var(--font-monospace-theme) !important;
+  background: var(--code-background) !important;
+  color: var(--code-normal) !important;
+  padding: 0.15em 0.45em !important;
+  border-radius: 0 !important;
+  border: 1px solid var(--deco-gold-pale);
+  font-size: 0.9em;
+}
+
+.markdown-preview-view pre,
+.HyperMD-codeblock-bg {
+  background: var(--code-background) !important;
+  border: 1px solid var(--deco-gold) !important;
+  border-radius: 0 !important;
+  padding: 1em 1.2em !important;
+  box-shadow: inset 0 0 0 1px var(--background-primary), inset 0 0 0 2px var(--deco-gold-pale);
+  position: relative;
+}
+
+.markdown-preview-view pre code {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  font-size: 0.92em;
+  line-height: 1.55;
+}
+
+/* ============================================================
+   10. TABLES — Bordered ledger style
+   ============================================================ */
+.markdown-preview-view table {
+  border-collapse: separate !important;
+  border-spacing: 0;
+  border: 1px solid var(--deco-gold);
+  margin: 1.4em 0;
+  box-shadow: 0 0 0 1px var(--background-primary), 0 0 0 2px var(--deco-gold-pale);
+}
+
+.markdown-preview-view thead {
+  background: linear-gradient(180deg, var(--deco-emerald), var(--deco-emerald-deep));
+}
+
+.markdown-preview-view th {
+  color: var(--deco-cream) !important;
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  padding: 0.7em 1em !important;
+  border: none !important;
+  border-bottom: 1px solid var(--deco-gold) !important;
+}
+
+.markdown-preview-view td {
+  padding: 0.6em 1em !important;
+  border: none !important;
+  border-bottom: 1px solid var(--deco-gold-pale) !important;
+  background: var(--background-secondary);
+}
+
+.markdown-preview-view tbody tr:nth-child(even) td {
+  background: var(--background-secondary-alt);
+}
+
+.markdown-preview-view tbody tr:last-child td {
+  border-bottom: none !important;
+}
+
+/* ============================================================
+   11. LISTS — Custom bullets
+   ============================================================ */
+.markdown-preview-view ul {
+  list-style: none;
+  padding-left: 1.5em;
+}
+
+.markdown-preview-view ul > li {
+  position: relative;
+}
+
+.markdown-preview-view ul > li::before {
+  content: "❖";
+  color: var(--deco-gold);
+  position: absolute;
+  left: -1.2em;
+  font-size: 0.75em;
+  top: 0.4em;
+}
+
+.markdown-preview-view ul ul > li::before {
+  content: "◇";
+  color: var(--deco-emerald);
+}
+
+.markdown-preview-view ul ul ul > li::before {
+  content: "·";
+  color: var(--deco-gold);
+  font-size: 1.4em;
+  top: 0;
+}
+
+.markdown-preview-view ol {
+  counter-reset: deco-counter;
+  list-style: none;
+  padding-left: 2em;
+}
+
+.markdown-preview-view ol > li {
+  counter-increment: deco-counter;
+  position: relative;
+}
+
+.markdown-preview-view ol > li::before {
+  content: counter(deco-counter, upper-roman) ".";
+  color: var(--deco-gold-deep);
+  font-family: var(--font-display);
+  font-weight: 600;
+  position: absolute;
+  left: -2em;
+  width: 1.7em;
+  text-align: right;
+  font-size: 0.85em;
+  top: 0.15em;
+}
+
+/* Task list checkboxes */
+input[type="checkbox"] {
+  appearance: none;
+  width: 1.1em; height: 1.1em;
+  border: 1.5px solid var(--deco-gold);
+  background: var(--background-secondary);
+  border-radius: 0;
+  position: relative;
+  vertical-align: middle;
+  margin-right: 0.4em;
+  cursor: pointer;
+}
+
+input[type="checkbox"]:checked {
+  background: var(--deco-emerald);
+  border-color: var(--deco-emerald-deep);
+}
+
+input[type="checkbox"]:checked::after {
+  content: "✓";
+  color: var(--deco-gold-bright);
+  position: absolute;
+  top: -2px; left: 1px;
+  font-size: 0.95em;
+  font-weight: 700;
+}
+
+/* ============================================================
+   12. TAGS — Gold pills
+   ============================================================ */
+.tag,
+a.tag {
+  background: var(--deco-emerald) !important;
+  color: var(--deco-cream) !important;
+  border: 1px solid var(--deco-gold) !important;
+  border-radius: 2px !important;
+  padding: 0.15em 0.7em !important;
+  font-family: var(--font-display) !important;
+  font-size: 0.78em !important;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  text-decoration: none !important;
+  font-weight: 500;
+}
+
+.tag:hover {
+  background: var(--deco-gold) !important;
+  color: var(--deco-emerald-deep) !important;
+}
+
+/* ============================================================
+   13. WORKSPACE CHROME — Sidebars, tabs, status bar
+   ============================================================ */
+.workspace {
+  background: var(--background-primary);
+}
+
+/* Sidebars */
+.workspace-ribbon,
+.workspace-split.mod-left-split,
+.workspace-split.mod-right-split {
+  background: var(--background-secondary) !important;
+  border-color: var(--deco-gold) !important;
+}
+
+.workspace-ribbon {
+  border-right: 1px solid var(--deco-gold);
+}
+
+/* Ribbon icons */
+.side-dock-ribbon-action {
+  color: var(--deco-gold-deep);
+  transition: color 0.2s ease;
+}
+.side-dock-ribbon-action:hover {
+  color: var(--deco-emerald);
+}
+.theme-dark .side-dock-ribbon-action { color: var(--deco-gold); }
+.theme-dark .side-dock-ribbon-action:hover { color: var(--deco-gold-bright); }
+
+/* Tab headers */
+.workspace-tab-header-container {
+  background: var(--background-secondary-alt) !important;
+  border-bottom: 1px solid var(--deco-gold) !important;
+}
+
+.workspace-tab-header {
+  background: transparent !important;
+  border-radius: 0 !important;
+  border-right: 1px solid var(--deco-gold-pale) !important;
+  font-family: var(--font-interface-theme);
+}
+
+.workspace-tab-header.is-active {
+  background: var(--background-primary) !important;
+  border-bottom: 2px solid var(--deco-gold) !important;
+}
+
+.workspace-tab-header-inner-title {
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  color: var(--text-normal);
+}
+
+/* Status bar */
+.status-bar {
+  background: var(--background-secondary) !important;
+  border-top: 1px solid var(--deco-gold) !important;
+  font-family: var(--font-interface-theme);
+  color: var(--text-muted);
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+}
+
+/* ============================================================
+   14. FILE EXPLORER & NAV
+   ============================================================ */
+.nav-folder-title,
+.nav-file-title {
+  font-family: var(--font-interface-theme);
+  border-radius: 0 !important;
+  color: var(--text-normal);
+  letter-spacing: 0.02em;
+  padding: 0.25em 0.5em !important;
+}
+
+.nav-folder-title {
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  color: var(--deco-emerald);
+  font-weight: 600;
+}
+.theme-dark .nav-folder-title { color: var(--deco-gold); }
+
+.nav-file-title:hover,
+.nav-folder-title:hover {
+  background: var(--background-modifier-hover) !important;
+  color: var(--text-accent) !important;
+}
+
+.nav-file-title.is-active {
+  background: var(--deco-emerald) !important;
+  color: var(--deco-cream) !important;
+  border-left: 3px solid var(--deco-gold);
+}
+
+.nav-folder-collapse-indicator {
+  color: var(--deco-gold);
+}
+
+/* ============================================================
+   15. SEARCH, MODALS, INPUTS
+   ============================================================ */
+input[type="text"],
+input[type="search"],
+textarea,
+.dropdown {
+  background: var(--background-modifier-form-field) !important;
+  border: 1px solid var(--deco-gold) !important;
+  border-radius: 0 !important;
+  font-family: var(--font-text-theme);
+  color: var(--text-normal) !important;
+  padding: 0.4em 0.7em !important;
+}
+
+input:focus, textarea:focus {
+  border-color: var(--deco-emerald) !important;
+  box-shadow: 0 0 0 1px var(--deco-gold-pale);
+  outline: none !important;
+}
+
+.modal {
+  background: var(--background-primary) !important;
+  border: 1px solid var(--deco-gold) !important;
+  border-radius: 0 !important;
+  box-shadow:
+    0 0 0 1px var(--background-primary),
+    0 0 0 2px var(--deco-gold-pale),
+    0 12px 40px rgba(0, 0, 0, 0.4);
+}
+
+.modal-title {
+  font-family: var(--font-display) !important;
+  letter-spacing: 0.12em;
+  color: var(--deco-emerald);
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--deco-gold);
+  padding-bottom: 0.5em;
+}
+
+.suggestion-item.is-selected {
+  background: var(--deco-emerald) !important;
+  color: var(--deco-cream) !important;
+}
+
+/* ============================================================
+   16. BUTTONS
+   ============================================================ */
+button,
+.mod-cta {
+  background: var(--deco-emerald) !important;
+  color: var(--deco-cream) !important;
+  border: 1px solid var(--deco-gold) !important;
+  border-radius: 0 !important;
+  font-family: var(--font-display) !important;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  padding: 0.5em 1.2em !important;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+button:hover,
+.mod-cta:hover {
+  background: var(--deco-gold) !important;
+  color: var(--deco-emerald-deep) !important;
+  border-color: var(--deco-emerald) !important;
+}
+
+/* ============================================================
+   17. GRAPH VIEW
+   ============================================================ */
+.graph-view.color-fill {
+  color: var(--deco-emerald);
+}
+.graph-view.color-fill-tag {
+  color: var(--deco-burgundy);
+}
+.graph-view.color-line {
+  color: var(--deco-gold);
+}
+.graph-view.color-text {
+  color: var(--deco-ink);
+}
+.theme-dark .graph-view.color-text {
+  color: var(--deco-ivory);
+}
+.graph-view.color-fill-highlight {
+  color: var(--deco-gold-bright);
+}
+.graph-view.color-line-highlight {
+  color: var(--deco-emerald);
+}
+
+/* ============================================================
+   18. SCROLLBARS
+   ============================================================ */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--background-secondary); }
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb-bg);
+  border: 2px solid var(--background-secondary);
+  border-radius: 0;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-active-thumb-bg); }
+
+/* ============================================================
+   19. TEXT SELECTION
+   ============================================================ */
+::selection {
+  background: var(--text-selection);
+  color: var(--text-normal);
+}
+
+/* ============================================================
+   20. EMBEDDED NOTES & PDFs
+   ============================================================ */
+.markdown-embed,
+.file-embed {
+  border: 1px solid var(--deco-gold) !important;
+  border-radius: 0 !important;
+  background: var(--background-secondary);
+  padding: 1em 1.2em !important;
+  box-shadow: inset 0 0 0 1px var(--background-primary), inset 0 0 0 2px var(--deco-gold-pale);
+  margin: 1em 0;
+}
+
+.markdown-embed-title {
+  font-family: var(--font-display);
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: var(--deco-emerald);
+  font-size: 0.9em;
+  border-bottom: 1px solid var(--deco-gold-pale);
+  padding-bottom: 0.4em;
+  margin-bottom: 0.6em;
+}
+
+/* ============================================================
+   21. PROPERTIES / FRONTMATTER
+   ============================================================ */
+.metadata-container {
+  background: var(--background-secondary) !important;
+  border: 1px solid var(--deco-gold-pale) !important;
+  border-left: 3px solid var(--deco-gold) !important;
+  border-radius: 0 !important;
+  padding: 0.8em 1em !important;
+  margin-bottom: 1em;
+}
+
+.metadata-property-key-input {
+  font-family: var(--font-display) !important;
+  letter-spacing: 0.08em;
+  color: var(--deco-emerald) !important;
+  text-transform: uppercase;
+  font-size: 0.85em;
+}
+
+.metadata-property-value {
+  font-family: var(--font-text-theme);
+}
+
+/* ============================================================
+   22. CURSOR & ACTIVE LINE
+   ============================================================ */
+.cm-active.cm-line {
+  background: rgba(176, 141, 60, 0.05) !important;
+}
+
+.cm-cursor {
+  border-left: 2px solid var(--deco-gold) !important;
+}
+
+/* ============================================================
+   23. FRONTMATTER PROPERTIES PILL TAGS
+   ============================================================ */
+.multi-select-pill {
+  background: var(--deco-emerald) !important;
+  color: var(--deco-cream) !important;
+  border: 1px solid var(--deco-gold) !important;
+  border-radius: 2px !important;
+  font-family: var(--font-display);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.78em;
+}
+
+/* ============================================================
+   24. BOLD & ITALIC EMPHASIS — Subtle deco refinement
+   ============================================================ */
+.markdown-preview-view strong {
+  color: var(--deco-emerald-deep);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+.theme-dark .markdown-preview-view strong {
+  color: var(--deco-gold-bright);
+}
+
+.markdown-preview-view em {
+  color: var(--deco-burgundy);
+  font-style: italic;
+}
+.theme-dark .markdown-preview-view em {
+  color: #d48a8a;
+}
+
+/* Highlight ==text== */
+.markdown-preview-view mark,
+.cm-highlight {
+  background: linear-gradient(180deg,
+    transparent 60%,
+    var(--deco-gold-pale) 60%,
+    var(--deco-gold-pale) 90%,
+    transparent 90%) !important;
+  color: var(--text-normal) !important;
+  padding: 0 0.15em;
+}
+
+/* ============================================================
+   END — THE GILDED CODEX
+   ============================================================ */

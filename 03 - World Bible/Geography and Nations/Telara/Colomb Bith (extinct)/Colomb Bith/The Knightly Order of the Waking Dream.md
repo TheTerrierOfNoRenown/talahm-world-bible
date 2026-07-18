@@ -1,0 +1,5 @@
+In 1242, a scant 50 years after the Shattering of Colomb Bith, the first successful reconnaissance mission, which would retroactively be called the First Expedition, returned a powerful artifact. The Abjurer’s Crystal. A powerful shielding spell capable of shielding a 5 mile radius area, and then the fighting began. Because Colomb Bith belonged to no nation, the ownership of the artifacts was heavily disputed, with several nations, specifically [[Uhterhest]], [[Terprarie]], Las Federaćion du Círculo de la Isla, and The Second Daefish Empire. This dispute nearly lead to all-out-war.
+ 
+It was under this circumstance that the Knightly Order of the Waking Dream was established under the Waking Dream treaty of 1242. Since then the Order has been overseeing all Expeditions into Colomb Bith for the last 450 years.
+ 
+[[The Knightly Order of the Waking Dream]]

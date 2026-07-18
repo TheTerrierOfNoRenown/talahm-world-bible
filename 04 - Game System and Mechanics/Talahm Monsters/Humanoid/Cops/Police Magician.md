@@ -1,0 +1,3 @@
+```statblock
+creature: Police Magician
+```

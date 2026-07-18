@@ -1,0 +1,23 @@
+| 18 Emerald DL 1722                                                                                                                                                                                                             |                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
+| Piece talks to overwatch about existentialism                                                                                                                                                                                  | Faction             |
+| Emily copies alarm to [[Gretchen Sloicht\|Gretchen's]] spellbook                                                                                                                                                               | NPC                 |
+| The crew gets free drinks for life                                                                                                                                                                                             | Faction             |
+| Pierce starts building a catalogue of constructs hes met (stitch, renoir, overwatch, hunch)                                                                                                                                    | Character           |
+| Templecrooker tunes [[Bailey Sloicht\|Bailey's]] bat                                                                                                                                                                           | NPC/Character       |
+| Templecrooker wants [[Blueprints]] (figure out mechanics)                                                                                                                                                                      | Character/Mechanics |
+| Templecrooker straightforward hits on tiefling matriarch.                                                                                                                                                                      | Faction             |
+| Franklin talks with Daefi about working with him, an element of this conversation revolved around the response to bigotry, and how you cannot let that stop you from pursuing what makes you happy, seemingly convincing Daefi | NPC                 |
+| Templecrooker helps a young Tiefling learn how to tinkerer [[Jordi Overcast]]                                                                                                                                                  | NPC                 |
+| Emily ponders on Isabel, she suspects she's trying to wine and dine someone. She ponders on Isabels more organized nature and wonders if that ended their relationship.                                                        | Character           |
+| Pierce talked to Isabel about matriarchy.                                                                                                                                                                                      | Faction             |
+| Pierce accidentally multiplied Ochre Jelly.                                                                                                                                                                                    | Character           |
+| Session ends on 19 Emerald DL 1722.                                                                                                                                                                                            | Date                |
+
+
+The players corner [[Renard Manacle]] in [[Tommy Knockers]]. After a brief exchange in fire Renard surrenders after [[P-6K47 Pierce]] blows his kneecap out. "Ya, you beat me. But I'm a fucking cop, take me in I'll have you arrested."
+"You sure about that?" Franklin says, "What do you think, Hunch?"
+"Well, I shink that our good friend Mishter Manacle doesn't understand the capabilities of your average construct."
+"What you mean the fucking robot?" Manacle gestures toward Pierce with an angry glare.
+"Mr. Piershe, wash your [[Mouth Box]] recording?"
+"Affirmative" said Pierce, and his voice changed to mimick Manacles, "Nothing personal girls. Your daddy just left the family"

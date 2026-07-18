@@ -1,0 +1,1945 @@
+{
+  "monsters": [
+    [
+      "Bailey Sloicht",
+      {
+        "name": "Bailey Sloicht",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Any Race",
+        "alignment": "Any Alignment",
+        "ac": 14,
+        "hp": 22,
+        "hit_dice": "2d12 + 4",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          15,
+          8,
+          10,
+          12
+        ],
+        "saves": [
+          {
+            "Strength": 5
+          },
+          {
+            "Constitution": 4
+          }
+        ],
+        "skills": [
+          "Animal Handling: 2",
+          "Survival: 1"
+        ],
+        "damage_resistances": "bludgeoning, piercing, and slashing",
+        "languages": "Common",
+        "cr": "1",
+        "traits": [
+          {
+            "name": "Danger Sense",
+            "desc": "The barbarian has advantage on Dexterity saving throws against effects that it can see while it is not Blinded, Deafened, or Incapacitated."
+          },
+          {
+            "name": "Reckless",
+            "desc": "At the start of its turn, the barbarian can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Barbed Baseball Bat",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) bludgeoning damage plus 2 magic bonus damage."
+          }
+        ],
+        "image": "Bailey.png"
+      }
+    ],
+    [
+      "Gretchen Sloicht",
+      {
+        "name": "Gretchen Sloicht",
+        "size": "Small",
+        "type": "humanoid",
+        "subtype": "Human",
+        "alignment": "Any Alignment",
+        "ac": 12,
+        "hp": 16,
+        "hit_dice": "3d6 + 6",
+        "speed": "30 ft.",
+        "stats": [
+          8,
+          14,
+          14,
+          20,
+          14,
+          10
+        ],
+        "saves": [
+          {
+            "Intelligence": 7
+          },
+          {
+            "Wisdom": 4
+          }
+        ],
+        "languages": "Common, and any two other languages",
+        "cr": "1",
+        "traits": [
+          {
+            "name": "Arcane Restoration",
+            "desc": "During a short rest, the wizard regains the use of expended spells with a combined level of two or lower."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The wizard's spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The wizard is a 3rd level spellcaster and can cast the following wizard spells:\n\nCantrips (at will): firebolt, minor illusion, prestidigitation\n\n1/day each: blur, chromatic orb, grease, shield"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+          }
+        ],
+        "image": "Gretchen.png"
+      }
+    ],
+    [
+      "Brayson",
+      {
+        "name": "Brayson",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "Neutral",
+        "ac": 18,
+        "hp": 44,
+        "hit_dice": "44",
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          15,
+          16,
+          0,
+          14,
+          0
+        ],
+        "skills": [
+          "Insight: +2",
+          "Investigation: +2",
+          "Sleight of Hand: +2",
+          "Stealth: +2"
+        ],
+        "senses": "Vision 120 ft.",
+        "languages": "Common, Thieves' Cant, Undercommon, Myconid",
+        "cr": "0",
+        "traits": [
+          {
+            "name": "Fighting Style",
+            "desc": "Blind Fighting."
+          },
+          {
+            "name": "Hunter's Prey",
+            "desc": "Has chosen Horde Breaker: once per turn, can target a second creature within 5 feet of the first with the same weapon attack."
+          },
+          {
+            "name": "Multiattack",
+            "desc": "Makes two Shortsword attacks."
+          },
+          {
+            "name": "Relentless Endurance",
+            "desc": "When reduced to 0 hit points but not killed outright, drops to 1 hit point instead. Usable once per Long Rest."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Great Club",
+            "desc": "Melee Weapon Attack: reach 5 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage. Mastery - Push: If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller."
+          },
+          {
+            "name": "Rifle",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 80 ft., one target. Hit: Average damage. Mastery - Aimed: Critical hit on a natural roll of 19 or 20. Ammunition: 5/clip."
+          }
+        ],
+        "image": "Brayson.png"
+      }
+    ],
+    [
+      "Brody Sloicht",
+      {
+        "name": "Brody Sloicht",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "Neutral",
+        "ac": 15,
+        "hp": 51,
+        "hit_dice": "6d8 + 18",
+        "speed": "30 ft.",
+        "stats": [
+          5,
+          17,
+          16,
+          12,
+          12,
+          9
+        ],
+        "saves": [
+          {
+            "Dexterity": 6
+          },
+          {
+            "Intelligence": 4
+          }
+        ],
+        "skills": [
+          "Deception: +2",
+          "Insight: +4",
+          "Intimidation: +2",
+          "Performance: +2",
+          "Sleight of Hand: +6",
+          "Stealth: +6"
+        ],
+        "damage_resistances": "poison",
+        "languages": "Common",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Fighting Style",
+            "desc": "Blind Fighting."
+          },
+          {
+            "name": "Dwarven Resilience",
+            "desc": "Has Resistance to Poison damage and Advantage on saving throws against the Poisoned condition."
+          },
+          {
+            "name": "Cunning Action",
+            "desc": "As a Bonus Action, can take the Dash, Disengage, or Hide action."
+          },
+          {
+            "name": "Steady Aim",
+            "desc": "As a Bonus Action, gives itself Advantage on its next attack roll this turn. Its Speed becomes 0 until the end of that turn."
+          },
+          {
+            "name": "Stonecunning",
+            "desc": "Can cast Tremorsense with a range of 60 feet as a Bonus Action, lasting 10 minutes. Usable Proficiency Bonus times per Long Rest."
+          },
+          {
+            "name": "Sneak Attack",
+            "desc": "Once per turn, deals extra damage to a creature it hits with a Finesse or Ranged weapon attack if it has Advantage on the roll, or if an ally of the rogue is within 5 ft. of the target."
+          },
+          {
+            "name": "Assassinate",
+            "desc": "Has Advantage on Initiative rolls. During the first round of each combat, attacks against creatures that haven't acted yet are Critical Hits on a hit."
+          },
+          {
+            "name": "Cunning Strike",
+            "desc": "When dealing Sneak Attack damage, can spend one Sneak Attack die to apply an effect to the target: Disarm, Knock Prone, Poison, Push, or Trip. Each effect has a saving throw DC."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Rapier",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Mastery - Vex: On a hit, attacker has Advantage on its next attack roll against the same target before the end of its next turn."
+          },
+          {
+            "name": "Revolver",
+            "desc": "Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage. Mastery - Explode: Maximum on a damage dice roll again."
+          }
+        ],
+        "image": "Brody.png"
+      }
+    ],
+    [
+      "Shaver Cricks",
+      {
+        "name": "Shaver Cricks",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "Neutral",
+        "ac": 10,
+        "hp": 43,
+        "hit_dice": "5d8 + 15",
+        "speed": "30 ft.",
+        "stats": [
+          13,
+          0,
+          17,
+          0,
+          0,
+          18
+        ],
+        "skills": [
+          "Stealth: +2"
+        ],
+        "languages": "Common",
+        "cr": "0",
+        "traits": [
+          {
+            "name": "Fighting Style",
+            "desc": "Blind Fighting."
+          },
+          {
+            "name": "Ihanen Resilience",
+            "desc": "Has Resistance to Poison damage and Advantage on saving throws against the Poisoned condition."
+          },
+          {
+            "name": "Stonecunning",
+            "desc": "Can cast Tremorsense with a range of 60 feet as a Bonus Action, lasting 10 minutes. Usable Proficiency Bonus times per Long Rest."
+          },
+          {
+            "name": "Divine Order",
+            "desc": "Has chosen the Protector order: gains proficiency with martial weapons and Heavy armor. Also features Thaumaturge Eldritch Resilience: You have advantage on Constitution saving throws against spells."
+          },
+          {
+            "name": "Feats",
+            "desc": "Metamagic Adept - Learns 2 Metamagic options and gains 2 Sorcery Points (regained on a Long Rest)."
+          },
+          {
+            "name": "Channel Divinity",
+            "desc": "Has 2 uses (regained on a Short or Long Rest). Options include turning undead within 30 feet, Divine Spark (heals or deals radiant/necrotic damage on a failed CON save), and Blessing of the Trickster (touch an ally to grant Advantage on Stealth checks for 1 hour)."
+          },
+          {
+            "name": "Sear Undead",
+            "desc": "When using Channel Divinity against Undead, also deals force damage equal to 2d8 to each Undead that fails the save."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The cleric is a level 5 spellcaster using Charisma/Wisdom (spell save DC 15, to hit with spell attacks). Known spells:\n\nCantrips (at will): Guidance, Resistance\n\n1st Level Spells: Create or Destroy Water, Disguise Self, Inflict Wounds, Pass Without Trace, The Dead\n\n2nd Level Spells: Hold Person, Mirror Image"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage when used two-handed."
+          }
+        ],
+        "image": "Shaver.png"
+      }
+    ],
+    [
+      "Renard Manacle",
+      {
+        "name": "Renard Manacle",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "Any Alignment",
+        "ac": 16,
+        "hp": 43,
+        "hit_dice": "5d8 + 10",
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          16,
+          14,
+          13,
+          16,
+          20
+        ],
+        "skills": [
+          "Perception: +5",
+          "Persuasion: +7",
+          "Religion: +3"
+        ],
+        "languages": "Common, Language of the cult's patron",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Multiattack",
+            "desc": "The cultist makes three attacks, using Pact Blade or Radiant Ray (Eldritch Blast) in any combination."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The cultist casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 17, +7 to hit with spell attacks):\n\nAt will: mage armor, thaumaturgy\n\n1/day each: hunger of hadar, suggestion"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Pact Blade",
+            "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage plus 18 (4d8) radiant damage."
+          },
+          {
+            "name": "Eldritch Blast",
+            "desc": "Ranged Weapon Attack: +8 to hit, range 120 ft., one target. Fires two beams. Hit: 5 (1d10) force damage per beam."
+          }
+        ],
+        "image": "Renard.png"
+      }
+    ],
+    [
+      "Chief Radley Steele",
+      {
+        "name": "Chief Radley Steele",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Human",
+        "alignment": "Unaligned",
+        "ac": 20,
+        "hp": 52,
+        "hit_dice": "8d8 + 16",
+        "speed": "30 ft.",
+        "stats": [
+          20,
+          10,
+          14,
+          16,
+          10,
+          10
+        ],
+        "saves": [
+          {
+            "Strength": 8
+          },
+          {
+            "Constitution": 5
+          }
+        ],
+        "skills": [
+          "Arcana: +5",
+          "Athletics: +7"
+        ],
+        "languages": "Common",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Weapon Bond",
+            "desc": "Can't be disarmed unless Incapacitated. Battle Surge (Recharges after a Short or Long rest): Take an additional action to make either one weapon attack or cast a spell."
+          },
+          {
+            "name": "Battle Caster",
+            "desc": "Advantage on Constitution saving throws to maintain Concentration. Can use a reaction to cast a spell that targets only that creature, rather than making an Opportunity Attack."
+          },
+          {
+            "name": "Multiattack",
+            "desc": "Make either two melee or two ranged attacks, or cast a spell."
+          },
+          {
+            "name": "War Magic",
+            "desc": "After using an action to cast a cantrip, make one Longsword attack as a bonus action."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "8th level spellcaster. Ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Spells prepared:\n\nCantrips (at will): booming blade, fire bolt\n\n1st level (4 slots): expeditious retreat, shield, thunderwave\n\n2nd level (2 slots): misty step, scorching ray"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage."
+          },
+          {
+            "name": "Booming Blade (Cantrip)",
+            "desc": "Melee Cantrip Attack: Make a Longsword attack (+8 to hit) against one creature within 5 ft. Hit: 9 (1d8 + 5) slashing damage plus 9 (2d8) thunder damage. If the target willingly moves before the start of your next turn, it immediately takes an additional 2d8 thunder damage."
+          },
+          {
+            "name": "Fire Bolt (Cantrip)",
+            "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 11 (2d10) fire damage."
+          },
+          {
+            "name": "Scorching Ray (2nd-Level Spell)",
+            "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., up to three targets. Hit: 7 (2d6) fire damage per ray."
+          },
+          {
+            "name": "Thunderwave (1st-Level Spell)",
+            "desc": "Range Self, 15 ft. Cube, Constitution Save (DC 13). Hit: 18 (4d8) thunder damage and pushed 10 ft. away from you. Half damage and is not pushed on a successful save."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Shield (1st-Level Spell)",
+            "desc": "After being hit, gain a +5 bonus to AC for the triggering attack, continuing to the start of your next turn."
+          }
+        ],
+        "image": "Radley.png"
+      }
+    ],
+    [
+      "Beat Cop",
+      {
+        "name": "Beat Cop",
+        "size": "Medium",
+        "type": "humanoid (Ony Roce)",
+        "alignment": "Any Alignment",
+        "image": [
+          [
+            "assets-Art-Character Art-NPC Art-Cops-Generic-Generic.png"
+          ]
+        ],
+        "ac": "15 (Chain Shirt & Shield)",
+        "hp": "16 (3d8 + 3)",
+        "speed": "20 ft.",
+        "stats": [
+          15,
+          14,
+          12,
+          10,
+          12,
+          10
+        ],
+        "skills": [
+          {
+            "Perception": 3
+          }
+        ],
+        "senses": "passive Perception 13",
+        "languages": "Common, plus any one language",
+        "cr": "1/4",
+        "actions": [
+          {
+            "name": "Short Sword",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+          },
+          {
+            "name": "Pistol",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 60/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+          }
+        ],
+        "Image": "BeatCop.png"
+      }
+    ],
+    [
+      "Senior Guard",
+      {
+        "name": "Senior Guard",
+        "size": "Medium",
+        "type": "humanoid (Any Race)",
+        "alignment": "Any Alignment",
+        "image": [
+          [
+            "assets-Art-Character Art-NPC Art-Cops-Generic-Construct 1.png"
+          ]
+        ],
+        "ac": "17 (Breastplate & Shield)",
+        "hp": "27 (5d8 + 5)",
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          12,
+          12,
+          10,
+          12,
+          10
+        ],
+        "skills": [
+          {
+            "Perception": 3
+          }
+        ],
+        "senses": "passive Perception 13",
+        "languages": "Common, plus any one language",
+        "cr": 1,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Senior Guard makes two attacks."
+          },
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
+          },
+          {
+            "name": "Rifle",
+            "desc": "Ranged Weapon Attack: +3 to hit, range 60/320 ft., one target. Hit: 6 (1d8 + 1) piercing damage. (Critical hits on a 19-20)"
+          }
+        ]
+      }
+    ],
+    [
+      "Dedicated Officer",
+      {
+        "name": "Dedicated Officer",
+        "size": "Medium",
+        "type": "humanoid (Any Race)",
+        "alignment": "Any Alignment",
+        "image": [
+          [
+            "assets-Art-Character Art-NPC Art-Cops-Generic-Dragonborne.png"
+          ]
+        ],
+        "ac": "16 (Chain Mail)",
+        "hp": "34 (4d10 + 12)",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          8,
+          16,
+          10,
+          13,
+          14
+        ],
+        "skills": [
+          {
+            "Athletics": 5
+          },
+          {
+            "Persuasion": 4
+          },
+          {
+            "Religion": 2
+          }
+        ],
+        "senses": "passive Perception 11",
+        "languages": "Celestial, Common",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Dueling",
+            "desc": "When the officer is wielding a melee weapon in one hand and no other weapons, they gain a +2 bonus to damage rolls with that weapon (included in the longsword attack)."
+          },
+          {
+            "name": "Divine Strikes",
+            "desc": "Once per turn, when the officer hits a creature with a melee weapon attack, they can deal an extra 9 (2d8) radiant damage."
+          }
+        ],
+        "spells": [
+          "The officer's spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). The officer can cast the following spells:",
+          {
+            "1/day each": "Bless, Command, Shield of Faith"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage."
+          },
+          {
+            "name": "Pistol",
+            "desc": "Ranged Weapon Attack: +1 to hit, range 30/120 ft., one target. Hit: 4 (1d8) piercing damage."
+          },
+          {
+            "name": "Healing Touch",
+            "desc": "The officer touches a creature and restores 5 hit points to that creature, or neutralizes a disease or poison affecting the creature."
+          }
+        ]
+      }
+    ],
+    [
+      "Police Magician",
+      {
+        "name": "Police Magician",
+        "size": "Medium",
+        "type": "humanoid (Any Race)",
+        "alignment": "Any Alignment",
+        "image": [
+          [
+            "assets-Art-Character Art-NPC Art-Cops-Generic-Police Mage.png"
+          ]
+        ],
+        "ac": "12 (15 with Mage Armor)",
+        "hp": "17 (3d6 + 6)",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          13,
+          11,
+          15,
+          10,
+          11
+        ],
+        "saves": [
+          {
+            "Intelligence": 4
+          },
+          {
+            "Wisdom": 2
+          }
+        ],
+        "skills": [
+          {
+            "Arcana": 4
+          },
+          {
+            "History": 4
+          }
+        ],
+        "senses": "passive Perception 10",
+        "languages": "Common, plus any one language",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Tactical Wit",
+            "desc": "The magician can give itself a bonus to its initiative rolls equal to its Intelligence modifier (+2)."
+          }
+        ],
+        "spells": [
+          "The magician is a 4th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:",
+          {
+            "Cantrips (at will)": "Fire Bolt, Friends, Message"
+          },
+          {
+            "1st level (4 slots)": "Alarm, Charm Person, Mage Armor, Sleep"
+          },
+          {
+            "2nd level (3 slots)": "Arcane Lock, Detect Thoughts, Hold Person"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Fire Bolt (Cantrip)",
+            "desc": "Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 5 (1d10) fire damage."
+          },
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+          }
+        ]
+      }
+    ],
+    [
+      "Inspector",
+      {
+        "name": "Inspector",
+        "size": "Medium",
+        "type": "humanoid (Any Race)",
+        "alignment": "Any Alignment",
+        "image": [
+          [
+            "assets-Art-Character Art-NPC Art-Cops-Generic-Costruct 2.png"
+          ]
+        ],
+        "ac": "13 (Leather Armor)",
+        "hp": "27 (5d8 + 5)",
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          14,
+          12,
+          12,
+          14,
+          10
+        ],
+        "skills": [
+          {
+            "Insight": 4
+          },
+          {
+            "Investigation": 3
+          },
+          {
+            "Perception": 3
+          }
+        ],
+        "senses": "passive Perception 13",
+        "languages": "Common, plus any one language",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Cunning Action",
+            "desc": "The Investigator can take the Dash, Disengage, or Hide action as a bonus action on each of its turns."
+          },
+          {
+            "name": "Sneak Attack",
+            "desc": "Once per turn, the Investigator can deal an extra 7 (2d6) damage to one creature it hits with an attack if it has advantage on the attack roll. The attack must use a finesse or a ranged weapon."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Investigator makes two attacks, one with their rapier and one with their dagger."
+          },
+          {
+            "name": "Rapier",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+          },
+          {
+            "name": "Revolver",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 9 (2d6 + 2) piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Parry",
+            "desc": "The Investigator adds 2 to its AC against one melee attack that would hit it. To do so, the Investigator must see the attacker and be wielding a melee weapon."
+          }
+        ]
+      }
+    ],
+    [
+      "Thug",
+      {
+        "name": "Thug",
+        "size": "Medium",
+        "type": "humanoid (Goon)",
+        "alignment": "Any Alignment",
+        "image": [
+          [
+            "assets-Art-Character Art-NPC Art-Goons-Goliath Thug.jpg"
+          ]
+        ],
+        "ac": "11 (Leather Armor)",
+        "hp": "22 (5d8)",
+        "speed": "30 ft.",
+        "stats": [
+          15,
+          11,
+          14,
+          10,
+          10,
+          11
+        ],
+        "saves": [
+          {
+            "Strength": 4
+          }
+        ],
+        "skills": [
+          {
+            "Intimidation": 2
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Common",
+        "cr": 1,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The thug makes two melee attacks."
+          },
+          {
+            "name": "Sap",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage."
+          },
+          {
+            "name": "Pistol",
+            "desc": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 3 (1d6) piercing damage."
+          }
+        ]
+      }
+    ],
+    [
+      "Wiseguy",
+      {
+        "name": "Wiseguy",
+        "size": "Medium",
+        "type": "humanoid (Goon)",
+        "alignment": "Any Alignment",
+        "image": [
+          [
+            "assets-Art-Character Art-NPC Art-Goons-Orc Wiseguy.jpg"
+          ]
+        ],
+        "ac": "13 (Leather Armor)",
+        "hp": "20 (4d8)",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          15,
+          10,
+          12,
+          14,
+          16
+        ],
+        "saves": [
+          {
+            "Dexterity": 4
+          }
+        ],
+        "skills": [
+          {
+            "Deception": 5
+          },
+          {
+            "Sleight of Hand": 4
+          },
+          {
+            "Stealth": 4
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 12",
+        "languages": "Common",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Cunning Action",
+            "desc": "On each of its turns, the wiseguy can use a bonus action to take the Dash, Disengage, or Hide action."
+          },
+          {
+            "name": "Sneak Attack",
+            "desc": "The wiseguy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the wiseguy that isn't Incapacitated and the wiseguy doesn't have disadvantage on the attack roll."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Sap",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage."
+          },
+          {
+            "name": "Pistol",
+            "desc": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+          }
+        ]
+      }
+    ],
+    [
+      "Mob Professional",
+      {
+        "name": "Mob Professional",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "Any Alignment",
+        "image": [
+          [
+            "assets-Art-Character Art-NPC Art-Goons-Professional 1.jpg"
+          ]
+        ],
+        "ac": "12 (15 with Mage Armor)",
+        "hp": 18,
+        "speed": "30 ft.",
+        "stats": [
+          9,
+          14,
+          11,
+          17,
+          12,
+          11
+        ],
+        "saves": [
+          {
+            "Intelligence": 6
+          },
+          {
+            "Wisdom": 4
+          }
+        ],
+        "skills": [
+          {
+            "Arcana": 6
+          },
+          {
+            "History": 6
+          }
+        ],
+        "senses": "passive Perception 11",
+        "languages": "Any four languages",
+        "cr": 6,
+        "spells": [
+          "The professional is a 3rd-Level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). It has the following wizard spells prepared:",
+          {
+            "Cantrips (at will)": "fire bolt, light, mage hand, prestidigitation"
+          },
+          {
+            "1st level (4 slots)": "detect magic, mage armor, magic missile, shield"
+          },
+          {
+            "2nd level (3 slots)": "misty step, suggestion"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+          }
+        ]
+      }
+    ],
+    [
+      "Mob Enforcer",
+      {
+        "name": "Mob Enforcer",
+        "size": "Medium",
+        "type": "humanoid (Any Race)",
+        "alignment": "Any Chaotic Alignment",
+        "image": [
+          [
+            "assets-Art-Character Art-NPC Art-Goons-Goliath Enforcer.jpg"
+          ]
+        ],
+        "ac": "14 (Natural Armor)",
+        "hp": 30,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          12,
+          17,
+          9,
+          11,
+          9
+        ],
+        "senses": "passive Perception 10",
+        "languages": "Common, plus any one language",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Lock In",
+            "desc": "The Enforcer is able to focus his entire energy and purpose to the fight, locking in the path to victory. This is mechanically identical to Rage: he gets resistance to all nonmagical damage, advantage on all Strength checks and saving throws, and an additional +2 damage on melee attacks (not included in the greataxe action)."
+          },
+          {
+            "name": "Reckless",
+            "desc": "At the start of its turn, the enforcer can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+          },
+          {
+            "name": "Danger Sense",
+            "desc": "The enforcer has an uncanny sense of when things aren't as they should be, giving them an edge when they dodge perils. Enforcers have Advantage on Dexterity saving throws unless they have the Incapacitated condition."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Greataxe",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage. Weapon Mastery: Cleave[cite: 10]."
+          }
+        ]
+      }
+    ],
+    [
+      "Capo Yogth",
+      {
+        "name": "Capo Yogth",
+        "size": "Medium",
+        "type": "aberration (Illithid)",
+        "alignment": "Lawful Evil",
+        "ac": "15 (natural armor)",
+        "hp": "71 (13d8 + 13)",
+        "speed": "30 ft.",
+        "stats": [
+          11,
+          12,
+          12,
+          19,
+          17,
+          17
+        ],
+        "saves": [
+          {
+            "Intelligence": 7
+          },
+          {
+            "Wisdom": 6
+          },
+          {
+            "Charisma": 6
+          }
+        ],
+        "skills": [
+          {
+            "Arcana": 7
+          },
+          {
+            "Deception": 6
+          },
+          {
+            "Insight": 6
+          },
+          {
+            "Perception": 6
+          },
+          {
+            "Persuasion": 6
+          },
+          {
+            "Stealth": 4
+          }
+        ],
+        "senses": "darkvision 120 ft., passive Perception 16",
+        "languages": "Common, Deep Speech, Undercommon, telepathy 60 ft.",
+        "cr": 7,
+        "traits": [
+          {
+            "name": "Magic Resistance",
+            "desc": "The mind flayer has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Innate Spellcasting (psionics)",
+            "desc": "The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:\nAt will: detect thoughts, levitate\n1/day each: dominate monster, plane shift (self only)"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Tentacles",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 13) and must succeed on a DC 15 Intelligence saving throw or be stunned until this grapple ends."
+          },
+          {
+            "name": "Extract Brain",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by the mind flayer. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain."
+          },
+          {
+            "name": "Mind Blast (Recharge 5-6)",
+            "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+          },
+          {
+            "name": "Revolver",
+            "desc": "Ranged Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3)"
+          }
+        ],
+        "image": "CapoYogthToken.png"
+      }
+    ],
+    [
+      "Bodach",
+      {
+        "name": "Bodach",
+        "size": "Medium",
+        "ac": "16 (natural armor)",
+        "hp": "13 (3d6 + 3)",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          13,
+          4,
+          12,
+          7
+        ],
+        "skills": [
+          {
+            "Stealth": 6
+          }
+        ],
+        "senses": "Darkvision 60 ft., Passive Perception 11",
+        "languages": "Deep Speech",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Aberrant Quickness (Recharges after a Short or Long Rest)",
+            "desc": "The bodach can take an extra action on its turn."
+          },
+          {
+            "name": "Boneless",
+            "desc": "The bodach can move through and occupy a space as narrow as 4 inches wide without squeezing."
+          },
+          {
+            "name": "Spider Climb",
+            "desc": "The bodach can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+          },
+          {
+            "name": "Habitat",
+            "desc": "Forest, Mountain, Underdark"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The bodach makes two grip attacks."
+          },
+          {
+            "name": "Grip",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 3 (1d6) piercing damage. If the target is a Large or smaller creature, it is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the bodach can't use this tentacle on another target. The bodach has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends."
+          }
+        ],
+        "image": "Bodach-twb-token.png"
+      }
+    ],
+    [
+      "Gem Stalker",
+      {
+        "name": "Gem Stalker",
+        "source": "FTD, page 202",
+        "image": "gem-stalker-ftb-token.png",
+        "size": "Large",
+        "type": "Monstrosity",
+        "alignment": "typically Neutral",
+        "ac": 17,
+        "armor_desc": "natural armor",
+        "hp": 67,
+        "hit_dice": "9d10 + 18",
+        "speed": "40 ft., climb 40 ft.",
+        "stats": [
+          17,
+          15,
+          14,
+          15,
+          10,
+          6
+        ],
+        "saves": [
+          {
+            "dex": 5
+          },
+          {
+            "int": 5
+          }
+        ],
+        "skills": [
+          {
+            "perception": 3
+          },
+          {
+            "stealth": 5
+          }
+        ],
+        "damage_resistances": "psychic",
+        "senses": "darkvision 120 ft., passive Perception 13",
+        "languages": "Telepathy 60 ft., understands Draconic but can't speak",
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Spider Climb",
+            "desc": "The gem stalker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+          },
+          {
+            "name": "Unusual Nature",
+            "desc": "The gem stalker doesn't require food or drink."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The gem stalker makes four Claw attacks."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Crystal Dart",
+            "desc": "Ranged Spell Attack: +5 to hit, range 30 ft., one target. Hit: 7 (1d10 + 2) force damage, and one of the following effects occurs, determined by the kind of dragon that created the gem stalker:\n• **Amethyst.** The gem stalker can teleport to an unoccupied space it can see within 30 feet of it.\n• **Crystal.** The gem stalker gains a number of temporary hit points equal to the damage dealt.\n• **Emerald.** The target must roll a d4 and subtract the number rolled from the next attack roll it makes before the start of the gem stalker's next turn.\n• **Sapphire.** The target must succeed on a DC 13 Strength saving throw or be pushed horizontally up to 10 feet away from the gem stalker and be knocked prone.\n• **Topaz.** The target must succeed on a DC 13 Constitution saving throw or be poisoned until the start of the gem stalker's next turn."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Protective Link",
+            "desc": "When another creature the gem stalker can see within 30 feet of it is about to take damage, the gem stalker reduces that damage by 10 (3d6). The gem stalker then takes damage equal to that amount."
+          }
+        ]
+      }
+    ],
+    [
+      "Lightning Elemental",
+      {
+        "name": "Lightning Elemental",
+        "size": "Medium",
+        "type": "elemental",
+        "image": "lightning-elemental-token.png",
+        "alignment": "neutral",
+        "ac": 15,
+        "hp": "67 (9d8 + 27)",
+        "speed": "0 ft., fly 50 ft.",
+        "stats": [
+          14,
+          20,
+          16,
+          4,
+          11,
+          11
+        ],
+        "damage_resistances": "acid, fire; bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "lightning, poison",
+        "condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Auran",
+        "cr": 6,
+        "traits": [
+          {
+            "name": "Lightning",
+            "desc": "A creature that touches the lightning elemental or hits it with a melee attack while within 5 feet of it takes 7 (2d6) lightning damage."
+          },
+          {
+            "name": "Water Susceptibility",
+            "desc": "For every 5 feet that the lightning elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The lightning elemental makes two slam attacks."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) lightning damage."
+          },
+          {
+            "name": "Lightning Bolt",
+            "desc": "Ranged Spell Attack: +8 to hit, range 20/60 ft., one target. Hit: 36 (7d8 + 5) lightning damage."
+          },
+          {
+            "name": "Globe Lightning (1/Short or Long Rest)",
+            "desc": "The lightning elemental discharges 3 globes of electricity that hover in its space for 1 minute. Whenever a creature enters or starts its turn within 5 feet of the elemental, one of the globes discharges. The target must make a DC 15 Dexterity saving throw, taking 9 (1d8 + 5) lightning damage on a failed saving throw, or half as much damage on a successful one. As each globe discharges, it disappears."
+          }
+        ]
+      }
+    ],
+    [
+      "Awakened Unit",
+      {
+        "name": "Awakened Unit",
+        "size": "medium",
+        "type": "humanoid",
+        "subtype": "-",
+        "alignment": "Any Alignment",
+        "ac": 15,
+        "ac_text": "15 (flat)",
+        "hp": 35,
+        "hit_dice": "6d8 + 12",
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          14,
+          14,
+          10,
+          14,
+          15
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "poison",
+        "damage_immunities": "",
+        "condition_immunities": "disease",
+        "senses": "passive Perception 12",
+        "languages": "-",
+        "cr": "2",
+        "skillsaves": [
+          {
+            "name": "Medicine",
+            "desc": "+4"
+          },
+          {
+            "name": "Survival",
+            "desc": "+4"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Construct Resilience",
+            "desc": "The Awakened Unit has advantage on saving throws against being Poisoned. The Awakened Unit is immune to being put to sleep or Diseased."
+          },
+          {
+            "name": "Constructed Nature",
+            "desc": "The Awakened Unit has no need for food, drink, or air."
+          },
+          {
+            "name": "Dauntless",
+            "desc": "The Awakened Unit has advantage on saving throws against being frightened."
+          },
+          {
+            "name": "Tactical Training",
+            "desc": "The Awakened Unit has advantage on initiative."
+          },
+          {
+            "name": "Vitality Sensors",
+            "desc": "The Awakened Unit can determine if a creature within 60 ft. of it that it can see suffers from one of the following conditions: Blinded, Deafened, Diseased, Paralyzed, or Poisoned."
+          },
+          {
+            "name": "Life Saver",
+            "desc": "The Awakened Unit can roll for the maximum value on its healing spells if it uses a healing spell on a creature at 0 hit points."
+          },
+          {
+            "name": "Mending Triage",
+            "desc": "The Awakened Unit's healing spells can affect constructs and grant them additional temporary hit points equal to the amount of hit points recovered."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The Awakened Unit is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following spells prepared:\nCantrips (at will): Toll the Dead, Spare the Dying, Mending\n1st Level (4 slots): Cure Wounds, Ray of Sickness, Inflict Wounds\n2nd Level (3 slots): Lesser Restoration, Healing Word\n3rd Level (2 slots): Mass Healing Word, Aura of Vitality"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Awakened Unit can cast a spell and make one attack with a sedative needle or vile needle."
+          },
+          {
+            "name": "Sedative Needle",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. Upon a hit, the target must succeed on a DC 14 Constitution saving throw or take 7 (2d6) poison damage and fall Unconscious. On a successful saving throw, creatures take half damage and are otherwise unaffected. Creatures remain Unconscious for 10 minutes, until they take damage, or until a creature uses its action to wake them up."
+          },
+          {
+            "name": "Vile Needle",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. Upon a hit, the target must succeed on a DC 14 Constitution saving throw. On a failed saving throw, creatures take 7 (2d6) poison damage and are Poisoned until the end of its next turn. On a successful saving throw, creatures take half damage and are not Poisoned."
+          }
+        ],
+        "source": "Talahm World Bible",
+        "image": "construct-awakened-unit.jpg"
+      }
+    ],
+    [
+      "Tactical Unit",
+      {
+        "name": "Tactical Unit",
+        "size": "medium",
+        "type": "humanoid",
+        "subtype": "-",
+        "alignment": "Any Alignment",
+        "ac": 14,
+        "ac_text": "14 (natural armor)",
+        "hp": 32,
+        "hit_dice": "5d8 + 10",
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          18,
+          14,
+          10,
+          14,
+          11
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "poison",
+        "damage_immunities": "",
+        "condition_immunities": "disease",
+        "senses": "passive Perception 13",
+        "languages": "-",
+        "cr": "3",
+        "skillsaves": [
+          {
+            "name": "Perception",
+            "desc": "+3"
+          },
+          {
+            "name": "Sleight of Hand",
+            "desc": "+5"
+          },
+          {
+            "name": "Stealth",
+            "desc": "+6"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Construct Resilience",
+            "desc": "The tactical unit has advantage on saving throws against being Poisoned. The tactical unit is immune to being put to sleep or Diseased."
+          },
+          {
+            "name": "Stealth Plating",
+            "desc": "The tactical unit can use its bonus action to Hide, even when slightly obscured."
+          },
+          {
+            "name": "Tactical Training",
+            "desc": "The tactical unit has advantage on initiative."
+          },
+          {
+            "name": "Lethal Strike",
+            "desc": "The tactical unit deals a critical hit on a 19-20. Upon dealing a critical hit, it can triple the damage die. (Opportunistic Strike: When the tactical unit takes the Attack action against a creature that suffers from one of the following conditions—Blinded, Deafened, Paralyzed, Poisoned, Prone, Restrained, or Stunned—it can make one additional weapon attack as part of that action.)"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The tactical unit makes three attacks with its armblade. It can substitute any number of its armblade attacks for a hand cannon."
+          },
+          {
+            "name": "Armblade (Amn Blade)",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage."
+          },
+          {
+            "name": "Hand Cannon (Rifle)",
+            "desc": "Ranged Weapon Attack: +6 to hit, range 120/240 ft., one target. Hit: 9 (2d4 + 4) piercing damage."
+          },
+          {
+            "name": "Sneak Attack",
+            "desc": "The tactical unit deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the unit that isn't Incapacitated and the tactical unit doesn't have disadvantage on the attack roll. It can only benefit from this feature once on its turn. (First Strike: The tactical unit has advantage on attack rolls against creatures that are surprised and have not acted yet in combat.)"
+          }
+        ],
+        "source": "Talahm World Bible",
+        "image": "construct-tactical-unit.jpg"
+      }
+    ],
+    [
+      "Artillary Unit",
+      {
+        "name": "Artillary Unit",
+        "size": "large",
+        "type": "construct",
+        "subtype": "-",
+        "alignment": "Unaligned",
+        "ac": 21,
+        "ac_text": "21 (flat)",
+        "hp": 52,
+        "hit_dice": "6d8 + 18",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "frightened, charmed, poisoned",
+        "senses": "passive Perception 10",
+        "languages": "common",
+        "cr": "6",
+        "skillsaves": [],
+        "traits": [
+          {
+            "name": "Charge",
+            "desc": "Once per turn, if the Warforged Juggernaut moves at least 20 feet straight toward a target and then hits it with a Slam attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet away and knocked Prone."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Warforged Juggernaut makes 2 Punch attacks."
+          },
+          {
+            "name": "Punch",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) slashing damage."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage."
+          },
+          {
+            "name": "Artillary",
+            "desc": "Each creature in a 20-foot-radius sphere centered on a point within range must make a Dexterity saving throw. A target takes 28 (8d6) fire damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "source": "Talahm World Bible",
+        "image": "construct-artillery-unit.png"
+      }
+    ],
+    [
+      "Battle Unit",
+      {
+        "name": "Battle Unit",
+        "size": "medium",
+        "type": "construct",
+        "subtype": "Warforged",
+        "alignment": "Unaligned",
+        "ac": 15,
+        "ac_text": "15 (flat)",
+        "hp": 39,
+        "hit_dice": "(6d8 + 12)",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          16,
+          14,
+          10,
+          10,
+          10
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "poison",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 10",
+        "languages": "common",
+        "cr": "1",
+        "skillsaves": [
+          {
+            "name": "Acrobatics",
+            "desc": "+5"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Warforged Tactics",
+            "desc": "The Warforged Soldier has advantage on an attack roll against a creature if at least one Warforged ally is within 5 feet of the creature and the ally isn't Incapacitated."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) slashing damage."
+          },
+          {
+            "name": "Rifle",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 100/400 ft., one creature. Hit: 7 (1d8 + 3) piercing damage."
+          },
+          {
+            "name": "Fighting Spirit (1/Day)",
+            "desc": "As a bonus action, the unit can gain advantage on its next weapon attack roll before the end of its turn."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "assets/Art/Character%20Art/NPC%20Art/Soldier/Construct%20Battle.jpg"
+      }
+    ],
+    [
+      "Construct Thaumic Unit",
+      {
+        "name": "Construct Thaumic Unit",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "-",
+        "alignment": "Any Alignment",
+        "ac": 15,
+        "ac_text": "15 (Natural Armor)",
+        "hp": 39,
+        "hit_dice": "6d8 + 12",
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          14,
+          14,
+          14,
+          14,
+          15
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Poison",
+        "damage_immunities": "",
+        "condition_immunities": "disease",
+        "senses": "passive Perception 14",
+        "languages": "Common, and one language of choice",
+        "cr": "4",
+        "skillsaves": [
+          {
+            "name": "Arcana",
+            "desc": "+4"
+          },
+          {
+            "name": "Survival",
+            "desc": "+4"
+          },
+          {
+            "name": "Perception",
+            "desc": "+4"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Battle Casting",
+            "desc": "The construct has advantage on saving throws to maintain concentration on spell effects."
+          },
+          {
+            "name": "Dauntless",
+            "desc": "The construct has advantage on saving throws against being frightened."
+          },
+          {
+            "name": "Constructed Nature",
+            "desc": "The construct has no need for food, drink, or air."
+          },
+          {
+            "name": "Rune Plating",
+            "desc": "While concentrating on a spell effect, the construct can add its Charisma modifier to its AC and saving throws."
+          },
+          {
+            "name": "Spellcore",
+            "desc": "The construct's body counts as its spellcasting focus. Whenever it rolls damage for its spell effects, it can add its Charisma modifier to the total damage roll."
+          },
+          {
+            "name": "Construct Resilience",
+            "desc": "The construct has advantage on saving throws against being poisoned. The construct is immune to being put to sleep or diseased."
+          },
+          {
+            "name": "War Caster",
+            "desc": "When the construct makes an opportunity attack, it can choose to cast a spell instead."
+          },
+          {
+            "name": "Tactical Training",
+            "desc": "The construct has advantage on initiative."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The construct is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following spells prepared:\nCantrips (at will): Firebolt, Booming Blade, Eldritch Blast, Ray of Frost\n1st Level (4 slots): Shield, Magic Missile, Burning Hands\n2nd Level (3 slots): Invisibility, Scorching Ray\n3rd Level (2 slots): Fireball, Lightning Bolt, Counterspell, Dispel Magic"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The construct can cast a spell and make one attack with its armblade."
+          },
+          {
+            "name": "Arm Blade",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage."
+          }
+        ],
+        "source": "Talahm World Bible",
+        "image": "construct-thaumic-unit.jpg"
+      }
+    ],
+    [
+      "Artillery Unit A12-B62 'Bomber'",
+      {
+        "name": "Artillery Unit A12-B62 'Bomber'",
+        "size": "Large",
+        "type": "Construct",
+        "subtype": "-",
+        "alignment": "Any Alignment",
+        "ac": 17,
+        "ac_text": "17 (Natural Armor)",
+        "hp": 126,
+        "hit_dice": "12d12 + 48",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          12,
+          18,
+          10,
+          14,
+          11
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Poison, Piercing, Slashing",
+        "damage_immunities": "",
+        "condition_immunities": "disease",
+        "senses": "passive Perception 14",
+        "languages": "Common, and one language of choice",
+        "cr": "7",
+        "skillsaves": [
+          {
+            "name": "Athletics",
+            "desc": "+7"
+          },
+          {
+            "name": "Perception",
+            "desc": "+5"
+          },
+          {
+            "name": "Survival",
+            "desc": "+5"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Dauntless",
+            "desc": "The warforged has advantage on saving throws against being frightened."
+          },
+          {
+            "name": "Constructed Nature",
+            "desc": "The warforged has no need for food, drink, or air."
+          },
+          {
+            "name": "Spiked Armor",
+            "desc": "If a creature grapples or hits the warforged with a melee weapon attack while within 5 ft. of it, the creature takes 3 (1d4) piercing damage."
+          },
+          {
+            "name": "Warforged Resilience",
+            "desc": "The warforged has advantage on saving throws against being poisoned. The warforged is immune to being put to sleep or diseased."
+          },
+          {
+            "name": "Tactical Training",
+            "desc": "The warforged has advantage on initiative."
+          },
+          {
+            "name": "Powerful Build",
+            "desc": "The warforged counts as one size larger for the purposes of carrying, pushing, and lifting."
+          },
+          {
+            "name": "Siege Monster",
+            "desc": "The warforged deals double damage to buildings and objects."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The warforged makes two attacks with its Hammer Fist. It can substitute any number of Hammer Fist attacks for a Heavy Cannon attack."
+          },
+          {
+            "name": "Hammer Fist",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. Upon a hit, the target must succeed on a DC 15 Strength saving throw or be knocked prone."
+          },
+          {
+            "name": "Heavy Cannon",
+            "desc": "Ranged Weapon Attack: +4 to hit, range 60/120 ft., one target. Hit: 14 (4d4 + 4) piercing damage. Upon a hit, the target must succeed on a DC 15 Strength saving throw or be pushed back 10 ft. All creatures within a 10 ft. radius around the target take half damage."
+          }
+        ],
+        "source": "Talahm",
+        "image": "artillery-uni-a12-b62.jpg"
+      }
+    ],
+    [
+      "Tactical Unit G-18F22 'Intel'",
+      {
+        "name": "Tactical Unit G-18F22 'Intel'",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Warforged",
+        "alignment": "Any Alignment",
+        "ac": 16,
+        "ac_text": "16 (Natural Armor)",
+        "hp": 100,
+        "hit_dice": "12d8 + 36",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          16,
+          16,
+          10,
+          14,
+          11
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Poison",
+        "damage_immunities": "",
+        "condition_immunities": "disease",
+        "senses": "darkvision 60 ft., passive Perception 14",
+        "languages": "Common, and one language of choice",
+        "cr": "5",
+        "skillsaves": [
+          {
+            "name": "Athletics",
+            "desc": "+6"
+          },
+          {
+            "name": "Perception",
+            "desc": "+5"
+          },
+          {
+            "name": "Survival",
+            "desc": "+5"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Constructed Nature",
+            "desc": "The warforged has no need for food, drink, or air."
+          },
+          {
+            "name": "Dauntless",
+            "desc": "The warforged has advantage on saving throws against being frightened."
+          },
+          {
+            "name": "Multi-limbed",
+            "desc": "When the warforged uses its reaction to make an opportunity attack, it can make two armblade attacks instead of one as part of that reaction."
+          },
+          {
+            "name": "Warforged Resilience",
+            "desc": "The warforged has advantage on saving throws against being poisoned. The warforged is immune to being put to sleep or diseased."
+          },
+          {
+            "name": "Reactive",
+            "desc": "The warforged can take a reaction at the end of every creature's turn."
+          },
+          {
+            "name": "Tactical Training",
+            "desc": "The warforged has advantage on initiative."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The warforged makes four attacks with its armblade."
+          },
+          {
+            "name": "Armblade",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage."
+          },
+          {
+            "name": "Blade Storm (Recharge 5–6)",
+            "desc": "Creatures in a 5 ft. radius around the warforged must succeed on a DC 14 Dexterity saving throw. On a failed saving throw, creatures take 28 (8d6) slashing damage, or half as much on a successful one."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Overcharged Step",
+            "desc": "As a bonus action, Intel can move up to their movement speed in an instant (similar to Misty Step)."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Legendary Actions (1/Turn)",
+            "desc": "Intel can take 1 legendary action per turn at the end of another creature's turn. Intel regains spent legendary actions at the start of its turn."
+          },
+          {
+            "name": "Poison",
+            "desc": "Intel can inject 1 creature within melee striking distance of him with a viral poison. This inflicts the poisoned condition until it is removed with Greater Restoration."
+          },
+          {
+            "name": "Armblade",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage."
+          },
+          {
+            "name": "Overcharged Step",
+            "desc": "Intel can move up to their movement range in an instant (similar to Misty Step)."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "Awakened Unit M-29G06 'Stitch'",
+      {
+        "name": "Awakened Unit M-29G06 'Stitch'",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Warforged",
+        "alignment": "Any Alignment",
+        "ac": 15,
+        "ac_text": "15 (Natural Armor)",
+        "hp": 106,
+        "hit_dice": "14d8 + 28",
+        "speed": "30 ft.",
+        "stats": [
+          14,
+          14,
+          14,
+          10,
+          14,
+          15
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Poison",
+        "damage_immunities": "",
+        "condition_immunities": "disease",
+        "senses": "passive Perception 14",
+        "languages": "Common, and one language of choice",
+        "cr": "7",
+        "skillsaves": [
+          {
+            "name": "Medicine",
+            "desc": "+6"
+          },
+          {
+            "name": "Survival",
+            "desc": "+4"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Dauntless",
+            "desc": "The warforged has advantage on saving throws against being frightened."
+          },
+          {
+            "name": "Constructed Nature",
+            "desc": "The warforged has no need for food, drink, or air."
+          },
+          {
+            "name": "Life Saver",
+            "desc": "The warforged can roll for the maximum value on its healing spells if it uses a healing spell on a creature at 0 hit points."
+          },
+          {
+            "name": "Mending Triage",
+            "desc": "The warforged's healing spells can affect constructs and grant them additional temporary hit points equal to the amount of hit points recovered."
+          },
+          {
+            "name": "Warforged Resilience",
+            "desc": "The warforged has advantage on saving throws against being poisoned. The warforged is immune to being put to sleep or diseased."
+          },
+          {
+            "name": "Tactical Training",
+            "desc": "The warforged has advantage on initiative."
+          },
+          {
+            "name": "Vitality Sensors",
+            "desc": "The warforged can determine if a creature within 60 ft. of it that it can see suffers from one of the following conditions: blinded, deafened, diseased, paralyzed, or poisoned."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The warforged is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit on spell attacks). It has the following spells prepared:\nCantrips (at will): Toll the Dead, Spare the Dying, Mending\n1st Level (4 slots): Sanctuary, Command, Cure Wounds, Ray of Sickness, Inflict Wounds\n2nd Level (3 slots): Hold Person, Silence\n3rd Level (2 slots): Incite Greed, Aura of Vitality"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The warforged can cast a spell and make one attack with a sedative needle or vile needle."
+          },
+          {
+            "name": "Sedative Needle",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. Upon a hit, the target must succeed on a DC 14 Constitution saving throw or take 7 (2d6) poison damage and fall unconscious. On a successful saving throw, creatures take half damage and are otherwise unaffected. Creatures remain unconscious for 10 minutes or until it is damaged or a creature uses its action to wake it up."
+          },
+          {
+            "name": "Vile Needle",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. Upon a hit, the target must succeed on a DC 14 Constitution saving throw. On a failed saving throw, creatures take 7 (2d6) poison damage and are poisoned until the end of its next turn. On a successful saving throw, creatures take half damage and are not poisoned."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": true,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": true,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

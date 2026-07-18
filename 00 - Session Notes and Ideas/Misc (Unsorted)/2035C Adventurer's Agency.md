@@ -1,0 +1,1 @@
+A 2035C Adventurers Agency is a legal structure derived from Mah’rs legal charter, which has a carve out for Adventurers Guilds and Clubs. Members of Adventurers Agencies have limited legal immunity when fulfilling a contract.

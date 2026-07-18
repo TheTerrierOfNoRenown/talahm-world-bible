@@ -1,0 +1,13 @@
+/* Float tables to the right */
+.float-right table {
+    float: right;
+    width: 300px; /* Adjust width as needed */
+    margin-left: 20px;
+    margin-bottom: 10px;
+    clear: right;
+}
+
+/* Ensure text wraps correctly in Live Preview and Reading Mode */
+.markdown-rendered .float-right {
+    display: block;
+}

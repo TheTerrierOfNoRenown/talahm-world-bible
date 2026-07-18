@@ -1,0 +1,1 @@
+The Nation that houses the city of Avverine, home of the first puppets, just north of the Ruins of Colomb Bith.

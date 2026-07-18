@@ -1,0 +1,8 @@
+.workspace-tab-header-container {
+  background-color: var(--text-accent); /* change this to your desired colour */
+}
+
+/* additional code for windows min,mix buttons */
+.titlebar-button-container {
+  background-color: transparent !important;
+}
