@@ -76,18 +76,20 @@ Rare Medical Regen
 
 
 ## Session Notes
-Players met up with the Shloichts, who were fighting outside of the Broken Lantern.
-Franklin convinced Brody to help fight the Construct Incursion. 
-Templecrooker looks into the mind of the Construct head, finding 4 files grafted on, which revealed the Overwatches Officers, the plans for Unterveil, A copy of the virus, and a note left by Overwatch for updated orders, including a threat to Pierce complete with a bomb, in which he threw out into the street to blow up.
-The team reconnoitered and came up with a plan: after finding a weakness for [[Artillery Unit A-12B62 'Bomber']] (fire) they took the drug crystals from last game, and used it to form a magic bomb. 
-Emily would form a minor illusion of Pierce to draw out Bomber, and the rest would ambush him. The plan goes off taking out most of Bombers health, but they had to fight bomber for a round.
-Templecrooker defused the bombs, using high stakes moves.
-Brody defends the elevator with the weapons the characters got last session and a bunch of locals.
-As the players rode up I asked them the following questions:
-**Templecrooker**: You just came very close to death, twice, how do you feel about that?
-*Evin*: I feel like I just gambled all of my luck, like I will not see those results again.
-**Pierce?** You're facing a commanding unit, something like what commanded you, how do you feel about this?
-*John*: Pierce doesn't really feel, but he is concerned and he will protect his friends no matter what.
-**Franklin?** 
-Players get back, have a quick encounter with Intel who tries to shoot Franklin and then sends a strike team to Sinn to lure Franklin out.
-Franklin gets hit with a virus as the session ends.
+Session Started at As-Motie-Us
+Players found themselves being pinned by enemy soldiers
+A car comes in and runs over enemy soldiers, the door swings open revealing [[Isabel Bruno]], who tells them to hop in.
+Bruno drives them recklessly to [[The Unwanted Adventurer's Agency]]
+Bruno has a heart to heart with [[Emily Walcott]], trying to get her to not play hero, and she demands that she doesn't die before leaving.
+Players find out that [[Isaiah Wayfinder]] is protecting the UAA with a charm, he lets them in where they meet [[Matilda Bailey]].
+Players reconnoiter after laying Franklin down to rest in his room near the boiler room, Bones stays to watch after Franklin
+Pierce gets upgrades from [[Sinn Firedusk]], and Sinn Manages to reverse the transmission from the virus, so that Pierce gets updates. Overwatch does not know this.
+Pierce calls [[Commander Thane]] who promises to call them back.
+During long rest the city gets filled with smoke from Barrier.
+Pierce learns about the location of [[Awakened Unit M-29G06 Stitch]] from the reversed Virus.
+Pierce, Emily, Templecrooker, and Matilda leave the UAA on foot, with assistance from the UAA B-Team in a chase sequence.
+UAA lays out plan, lures out Stitch by pretending Pierce was betrayed, lures him out and destroys him.
+Barrier, having gotten the signal the Stitch was dead bombs the Airdock.
+Players return to UAA after narrowly escaping bombing and Matilda synthesizes the cure.
+Session ends with Pierce breaking into Franklins and stabbing him in chest with cure.
+

@@ -42,6 +42,8 @@ Battle Unit P-6K47 "Pierce" is a basic Battle Unit built to fight in the [[The R
 ## Appearence 
 Battle Unit P-6K47 "Pierce" is a tall, humanoid robot structure in a matte copper color, and a blank face with only glowing nodes for eyes. His arms and legs can be described as "frame like", with a bulky right arm that contains his rifle and grenade launcher as pop out compartments. He is frequently seen dressed as if a toddler had dressed himself. With a top hat, two mismatching boots, a scarf, and a sweater vest with pockets to which he stuffs with things that he finds along his travels. 
 
+Since [[A Good Soldier - Session 2]], Pierce received an upgrade to his appearance, a movable mouth and eyes that allows him to express himself, though at first he did so quite wrongly, often confusing expressions for their oppsites.
+
 ## Personality
 Battle Unit P-6K47 "Pierce" is described as friendly if awkward. His lack of social graces is often countered by his enthusiasm to learn. Pierce is inquisitive, curious, and nonjudgmental by nature. His communication style is efficient, bordering on clinical, but Pierce displays a driving desire to learn and grow. Pierce may not get your joke, but he will appreciate they you told it to him.
 
@@ -58,7 +60,9 @@ Pierce was assembled 7 Topaz DL 1709, in the [[Rivetshaver Inc.]] factory in [[H
 
 Following this Pierce was offered the oppurtunity to be a fulltime soldier, but Pierce, after consideration, rejected it. He wandered after the war, doing very little until meeting [[Franklin David]], and becoming a full time Adventurer.
 
+## Overwatch
 
+Pierce, during a trip to [[Unterveil]], visited a burgeoning [[The First Church of the Clockwork God]], and met a unit by the name of [[Commander Unit G-21T Overwatch]]. Overwatch had been looking for a cure for [[The Waiting]], an affliction on machines that forced them to shut down. Unbenownst to Pierce, Overwatch was planning an assault, and recruited Pierce by way of a Virus. This would be found out later, and the rivalry between Pierce and Overwatch would star its own adventure [[A Good Soldier]]. 
 
 ## Pierce's Assumptions About the World.
 

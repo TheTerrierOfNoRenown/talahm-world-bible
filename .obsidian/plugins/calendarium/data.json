@@ -291,13 +291,13 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 21,
-        "month": 3,
+        "day": 15,
+        "month": 4,
         "year": 1722
       },
       "events": [
         {
-          "name": "Voyage of Chœurs",
+          "name": "Dissonance of Chœurs",
           "description": "A Voyage of Chœurs, where the second moon breaks off from the first and circumnavigates Talahm before rejoining.",
           "date": {
             "month": 4,

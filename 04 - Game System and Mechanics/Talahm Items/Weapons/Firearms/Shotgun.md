@@ -9,4 +9,4 @@
 > - **Cost:** [25 sticks]
 ### Mastery Property
 
-- **[Aim]:** [Critical Hits Occur on a 19-20 of the die roll].
+ **[Explode]:** [Max damage on the die roll results in an exploding damage die].

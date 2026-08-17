@@ -5,7 +5,7 @@ tags:
 
 > [!infobox|n-th|450]
 > ## Brayson
-> ![[00 - Session Notes and Ideas/01 - Campaign and World State/Campaign Diary/NPCs/Underdark/The Broken Lantern Gang/img/Brayson.png|center||400]]
+> ![[01 - Campaign and World State/Campaign Diary/NPCs/Underdark/The Broken Lantern Gang/img/Brayson.png|center||400]]
 > 
 > | |  |
 > | :--- | :--- |

@@ -1,0 +1,5 @@
+A Good Soldier was a Canon Story in The Long Road focusing around [[P-6K47 Pierce]]. It concerned a set of former constructs, who like Pierce are struggling with what it means to exist outside of the purpose they were built for. [[Commander Unit G-21T Overwatch]], after discovering that his men had succumbed to an affliction known as [[The Waiting]], began an increasingly desperate campaign to wake them, finally deciding on beginning a war, to give them the purpose that they were missing. He was wrong.
+
+This was an action heavy adventure, with several enemies and little time for downtime, which created tension. The players seemed to like the chances for role play but the stakes of the narrative. Consequential to this, Constructs will be slightly mistrusted, but suggested that we don't play into that as much, given the rule that Racism is not Fun. 
+
+Pierce will have the option to visit the 300 Waiting machines to find out how to help them, and his failure to do this will have consequences down the line. 

@@ -1916,6 +1916,880 @@
         "source": "FoundryVTT Import",
         "image": "--------"
       }
+    ],
+    [
+      "Commander Unit G-21T \"Overwatch\"",
+      {
+        "name": "Commander Unit G-21T \"Overwatch\"",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Warforged",
+        "alignment": "Any Alignment",
+        "ac": 17,
+        "ac_text": "17 (flat)",
+        "hp": 102,
+        "hit_dice": "12d8 + 48",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          16,
+          18,
+          15,
+          17,
+          16
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Poison, Piercing, Psychic",
+        "damage_immunities": "",
+        "condition_immunities": "disease",
+        "senses": "passive Perception 16",
+        "languages": "-",
+        "cr": "3",
+        "skillsaves": [
+          {
+            "name": "Athletics",
+            "desc": "+7"
+          },
+          {
+            "name": "Perception",
+            "desc": "+6"
+          },
+          {
+            "name": "Survival",
+            "desc": "+6"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Constructed Nature",
+            "desc": "Overwatch has no need for food, drink, or air."
+          },
+          {
+            "name": "Adaptable",
+            "desc": "Overwatch will gain damage resistance against an attack that has been used against him before, and damage immunity once to that damage type if the same attack is used twice in a row against him."
+          },
+          {
+            "name": "Construct Resilience",
+            "desc": "Overwatch has advantage on saving throws against being poisoned. Overwatch is immune to being put to sleep or diseased."
+          },
+          {
+            "name": "Defiance",
+            "desc": "Overwatch has advantage on saving throws against being frightened. If Overwatch is Frightened, it gains 10 temporary hit points at the start of each of its turns while it is not Incapacitated."
+          },
+          {
+            "name": "Tactical Training",
+            "desc": "Overwatch has advantage on initiative."
+          },
+          {
+            "name": "Tactical Strike",
+            "desc": "Once per turn, Overwatch can deal an extra 11 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of Overwatch that isn't Incapacitated."
+          },
+          {
+            "name": "Martial Flurry",
+            "desc": "Once on each of its turns, if Overwatch has advantage on an attack roll, it can make one additional weapon attack as part of that Attack action."
+          },
+          {
+            "name": "Martial Overdrive (Recharge 5–6)",
+            "desc": "When Overwatch finishes its turn, it can take one additional turn immediately after."
+          },
+          {
+            "name": "Phase 2",
+            "desc": "At 40 HP, Overwatch activates Overwatch Protocol. He glows blue under his chassis, and his attacks all deal 1 additional die of damage."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Overwatch makes three attacks with its armblade. It can substitute any number of armblade attacks with a hand cannon."
+          },
+          {
+            "name": "Extending Arm Blade",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage. Upon a hit, a Medium or smaller target is pulled 10 ft. toward the commander."
+          },
+          {
+            "name": "Rifle",
+            "desc": "Ranged Weapon Attack: +6 to hit, range 120/240 ft., one target. Hit: 8 (2d4 + 3) piercing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Tactical Command",
+            "desc": "Overwatch can grant a creature of its choice within 30 ft. advantage on its next attack roll, ability check, or saving throw until the end of its next turn."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Legendary Actions (3/Round)",
+            "desc": "Commander Unit G-21T 'Overwatch' can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Overwatch regains spent legendary actions at the start of its turn."
+          },
+          {
+            "name": "Quick Attack Protocol",
+            "desc": "Overwatch makes one weapon attack."
+          },
+          {
+            "name": "Disruption Protocol",
+            "desc": "Overwatch attempts to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, Overwatch makes an ability check using its spellcasting ability (DC = 10 + the spell's level). On a success, the spell fails and has no effect."
+          },
+          {
+            "name": "Overwatch Protocol",
+            "desc": "Grants Overwatch and any units under his command advantage on one attack for the entire round, and advantage on any one save over the next round. All attacks against Overwatch have disadvantage until the next round."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": null
+      }
+    ],
+    [
+      "Angry Sorrowsworn",
+      {
+        "name": "Angry Sorrowsworn",
+        "size": "Medium",
+        "type": "Monstrosity",
+        "subtype": "-",
+        "alignment": "Typically Neutral Evil",
+        "ac": 18,
+        "ac_text": "18 (natural armor)",
+        "hp": 255,
+        "hit_dice": "12d10 + 36",
+        "speed": "30 ft.",
+        "stats": [
+          17,
+          10,
+          19,
+          8,
+          13,
+          6
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "bludgeoning, piercing, and slashing while in dim light or darkness",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 21",
+        "languages": "Common",
+        "cr": "13",
+        "skillsaves": [
+          {
+            "name": "Perception",
+            "desc": "+11"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Two Heads",
+            "desc": "The sorrowsworn has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious."
+          },
+          {
+            "name": "Rising Anger",
+            "desc": "If another creature deals damage to the sorrowsworn, the sorrowsworn's attack rolls have advantage until the end of its next turn, and the first time it hits with a Hook attack on its next turn, the attack's target takes an extra 19 (3d12) psychic damage. On its turn, the sorrowsworn has disadvantage on attack rolls if no other creature has dealt damage to it since the end of its last turn."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The sorrowsworn makes two Hook attacks."
+          },
+          {
+            "name": "Hook",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d12 + 3) piercing damage."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "Hungry Sorrowsworn",
+      {
+        "name": "Hungry Sorrowsworn",
+        "size": "Medium",
+        "type": "Monstrosity",
+        "subtype": "-",
+        "alignment": "Typically Neutral Evil",
+        "ac": 17,
+        "ac_text": "17 (natural armor)",
+        "hp": 225,
+        "hit_dice": "30d8 + 30",
+        "speed": "30 ft.",
+        "stats": [
+          19,
+          4,
+          10,
+          10,
+          17,
+          3
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "bludgeoning, piercing, and slashing while in dim light or darkness",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Common",
+        "cr": "11",
+        "skillsaves": [],
+        "traits": [
+          {
+            "name": "Life Hunger",
+            "desc": "If a creature within 60 feet of the sorrowsworn regains hit points, the sorrowsworn gains two benefits until the end of its next turn: it has advantage on attack rolls, and its Bite deals an extra 22 (4d10) necrotic damage on a hit."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The sorrowsworn makes one Bite attack and one Claw attack."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 13 (3d8) necrotic damage."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (4d6 + 4) slashing damage. If the target is Medium or smaller, it is grappled (escape DC 16), and it is restrained until the grapple ends. While grappling a creature, the sorrowsworn can't make a Claw attack."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "Lonely Sorrowsworn",
+      {
+        "name": "Lonely Sorrowsworn",
+        "size": "Medium",
+        "type": "Monstrosity",
+        "subtype": "-",
+        "alignment": "Typically Neutral Evil",
+        "ac": 16,
+        "ac_text": "16 (natural armor)",
+        "hp": 112,
+        "hit_dice": "15d8 + 45",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          14,
+          17,
+          6,
+          12,
+          6
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "bludgeoning, piercing, and slashing while in dim light or darkness",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "Common",
+        "cr": "9",
+        "skillsaves": [],
+        "traits": [
+          {
+            "name": "Psychic Leech",
+            "desc": "At the start of each of the sorrowsworn's turns, each creature within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage."
+          },
+          {
+            "name": "Thrives on Company",
+            "desc": "The sorrowsworn has advantage on attack rolls while it is within 30 feet of at least two other creatures. It otherwise has disadvantage on attack rolls."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace."
+          },
+          {
+            "name": "Harpoon Arm",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 60 ft., one target. Hit: 21 (4d8 + 3) piercing damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two harpoon arms and can grapple up to two creatures at once."
+          },
+          {
+            "name": "Sorrowful Embrace",
+            "desc": "Each creature grappled by the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save, or half as much damage on a successful one. In either case, the sorrowsworn pulls each of those creatures up to 30 feet straight toward it."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "Lost Sorrowsworn",
+      {
+        "name": "Lost Sorrowsworn",
+        "size": "Medium",
+        "type": "Monstrosity",
+        "subtype": "-",
+        "alignment": "Typically Neutral Evil",
+        "ac": 15,
+        "ac_text": "15 (natural armor)",
+        "hp": 78,
+        "hit_dice": "12d8 + 24",
+        "speed": "30 ft.",
+        "stats": [
+          17,
+          12,
+          15,
+          6,
+          7,
+          5
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "bludgeoning, piercing, and slashing while in dim light or darkness",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 8",
+        "languages": "Common",
+        "cr": "7",
+        "skillsaves": [
+          {
+            "name": "Athletics",
+            "desc": "+6"
+          }
+        ],
+        "traits": [],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The sorrowsworn makes two Arm Spike attacks."
+          },
+          {
+            "name": "Arm Spike",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (2d10 + 3) piercing damage."
+          },
+          {
+            "name": "Embrace (Recharge 4–6)",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 25 (4d10 + 3) piercing damage, and the target is grappled (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is frightened, and it takes 27 (6d8) psychic damage at the end of each of its turns. The sorrowsworn can grapple only one creature at a time."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Tightening Embrace",
+            "desc": "If the sorrowsworn takes damage, the creature grappled by Embrace takes 18 (4d8) psychic damage."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "Wretched Sorrowsworn",
+      {
+        "name": "Wretched Sorrowsworn",
+        "size": "Small",
+        "type": "Monstrosity",
+        "subtype": "-",
+        "alignment": "Typically Neutral Evil",
+        "ac": 15,
+        "ac_text": "15 (natural armor)",
+        "hp": 10,
+        "hit_dice": "4d6 - 4",
+        "speed": "40 ft.",
+        "stats": [
+          7,
+          12,
+          9,
+          5,
+          6,
+          5
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "bludgeoning, piercing, and slashing while in dim light or darkness",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 8",
+        "languages": "-",
+        "cr": "1/4",
+        "skillsaves": [],
+        "traits": [
+          {
+            "name": "Wretched Pack Tactics",
+            "desc": "The sorrowsworn has advantage on an attack roll against a creature if at least one of the sorrowsworn's allies is within 5 feet of the creature and the ally isn't incapacitated. The sorrowsworn otherwise has disadvantage on attack rolls."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d10 + 1) piercing damage, and the sorrowsworn attaches to the target. While attached, the sorrowsworn can't attack, and at the start of each of the sorrowsworn's turns, the target takes 6 (1d10 + 1) necrotic damage. The attached sorrowsworn moves with the target whenever the target moves, requiring none of the sorrowsworn's movement. The sorrowsworn can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can use its action to detach the sorrowsworn."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "The King of the Ball",
+      {
+        "name": "The King of the Ball",
+        "size": "Huge",
+        "type": "aberration",
+        "subtype": "-",
+        "alignment": "neutral",
+        "ac": 12,
+        "ac_text": "12",
+        "hp": 247,
+        "hit_dice": "30d10 + 90",
+        "speed": "10 ft., swim 10 ft.",
+        "stats": [
+          18,
+          8,
+          16,
+          3,
+          10,
+          6
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "prone",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "-",
+        "cr": "12",
+        "skillsaves": [],
+        "traits": [
+          {
+            "name": "Aberrant Ground",
+            "desc": "The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn."
+          },
+          {
+            "name": "Cacophony",
+            "desc": "The king babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the king and can hear the babbling must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The King of the Ball makes one Bite attack, one Slam attack, and, if available, uses its The King's Light."
+          },
+          {
+            "name": "Bites",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be restrained. If the target is killed by this damage, it is absorbed into the mouther."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., affects target(s) in a 10 ft. line. Hit: 10 (3d6) bludgeoning damage. A Medium or smaller creature must make a DC 15 Strength saving throw or be knocked prone."
+          },
+          {
+            "name": "The King's Light (Recharge 5–6)",
+            "desc": "The King emits a bright light from every orifice affecting all creatures that can see within 30 ft. of the king. Each creature within 30 ft. must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn and take 28 (8d6) radiant damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Shriek (Recharge 2–3)",
+            "desc": "Creatures within a 30-foot radius must make a DC 15 Wisdom saving throw or be stunned."
+          },
+          {
+            "name": "Bone Dart",
+            "desc": "Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 7 (3d4) piercing damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Shield",
+            "desc": "One of the twisted beings on the King's body casts the shield spell, granting a +5 bonus to AC until the start of its next turn."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Legendary Actions (2/Round)",
+            "desc": "The King of the Ball can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The King regains spent legendary actions at the start of its turn."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., affects target(s) in a 10 ft. line. Hit: 10 (3d6) bludgeoning damage. A Medium or smaller creature must make a DC 15 Strength saving throw or be knocked prone."
+          },
+          {
+            "name": "Consume",
+            "desc": "A nearby player must make a Dexterity check to save a ball-goer. If they fail, the King of the Ball absorbs a new ball-goer, regaining 14 (2d8 + 5) hit points."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "Masquerade",
+      {
+        "name": "Masquerade",
+        "size": "Medium",
+        "type": "fey",
+        "subtype": "-",
+        "alignment": "chaotic evil",
+        "ac": 15,
+        "ac_text": "15",
+        "hp": 105,
+        "hit_dice": "15d10 + 15",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          16,
+          13,
+          16,
+          13,
+          19
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "bludgeoning, piercing, and slashing",
+        "damage_immunities": "",
+        "condition_immunities": "frightened",
+        "senses": "blindsight 60 ft., passive Perception 11",
+        "languages": "Common, Sylvan, any languages known by its stolen faces",
+        "cr": "9",
+        "skillsaves": [
+          {
+            "name": "Deception",
+            "desc": "+10"
+          },
+          {
+            "name": "Stealth",
+            "desc": "+6"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Multiple Dancers",
+            "desc": "The Masquerade takes the form of 5 Dancers, sharing a single HP pool. Hitting multiple dancers with the same attack does not multiply the damage. The dancers move independently on their turn."
+          },
+          {
+            "name": "Illusory Appearance",
+            "desc": "The masquerade covers itself and anything it is wearing or carrying with a magical Illusion that makes it look like a creature whose face it has stolen. It can also perfectly mimic the creature's voice and inflections. The masquerade must wear the mask it has created of the creature's face in order to do so. The effect ends if the masquerade takes off the mask or dies. The changes wrought by this effect fail to hold up to physical inspection. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 18 Intelligence (Investigation) check to discern that the masquerade is disguised."
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "The masquerade's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:\nAt will: dancing lights, message, silent image\n3/day each: mirror image, misty step, pass without trace, silence\n1/day each: fear, hold person, major image, nondetection"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Masquerade can perform up to 5 attacks per round, one for each dancer. Only one of the attacks may be a leveled spell, while the rest must be weapon attacks."
+          },
+          {
+            "name": "Waltz",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature, it must succeed on a DC 15 Charisma saving throw or take 22 (4d10) psychic damage and be stunned for 1 minute. A creature that succeeds on the saving throw takes half as much psychic damage and is not stunned. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+          },
+          {
+            "name": "Facesteal",
+            "desc": "The Masquerade initiates a Charisma contest with an incapacitated Small or Medium creature that has a face within 5 feet of it. If it wins the contest, the masquerade magically steals the creature's face, creating a mask with its visage. A creature without a face is blinded, deafened, and can't speak. If the mask of a creature's face is returned to it, the creature's face is magically restored."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Legendary Actions (1/Round)",
+            "desc": "The Masquerade can take 1 legendary action per round, choosing from the option below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Masquerade regains its spent legendary action at the start of its turn."
+          },
+          {
+            "name": "Invitation!",
+            "desc": "One targeted creature must succeed on a DC 15 Charisma saving throw or join the dance. A magic mask appears on their face, they are compelled to move on their turn in the dance, and they are unable to attack the dancers. All affected creatures may use their action to resist the dance, but whether successful or not, they must use their movement action before their action."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "False Hydra",
+      {
+        "name": "False Hydra",
+        "size": "Gargantuan",
+        "type": "fiend",
+        "subtype": "-",
+        "alignment": "Chaotic Evil",
+        "ac": 16,
+        "ac_text": "16 (natural armor)",
+        "hp": 350,
+        "hit_dice": "20d20 + 140",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "cold, fire",
+        "damage_immunities": "poison",
+        "condition_immunities": "charmed, frightened, exhaustion",
+        "senses": "blindsense 30 ft., tremorsense 240 ft., passive Perception 10",
+        "languages": "Abyssal, Common, telepathy 60 ft.",
+        "cr": "8",
+        "skillsaves": [
+          {
+            "name": "Deception",
+            "desc": "+2"
+          },
+          {
+            "name": "Insight",
+            "desc": "+2"
+          },
+          {
+            "name": "Stealth",
+            "desc": "+2"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Legendary Resistance (3/Day)",
+            "desc": "When the False Hydra fails a saving throw, it can choose to succeed instead."
+          },
+          {
+            "name": "Multiple Heads",
+            "desc": "The False Hydra has as many actions on its turn as it has heads, using one action per head. Each head can concentrate on a spell effect cast by the False Hydra, but that head must use its action each turn to concentrate on the effect. For every head beyond one, it has an extra reaction that can be used only to make opportunity attacks. While it has more than one head, the False Hydra has advantage on saving throws against being blinded, deafened, stunned, and knocked unconscious. If the False Hydra takes more than 40 damage in a single turn, one of its heads dies. If its last head dies, it dies."
+          },
+          {
+            "name": "Howl Of Oblivion",
+            "desc": "The False Hydra's heads can, as their action, sing a howling song that causes any who hear it within 5 miles to ignore the Hydra's presence. This extends to any secondary effects of the Hydra's presence, such as the song itself, evidence of the Hydra's presence, or even their memories of the people that the Hydra has killed. Children under 13 years of age are able to remember those killed by the Hydra."
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "The False Hydra's innate spellcasting ability is Charisma (spell save DC 20). It can innately cast the following spells, requiring only verbal components:\n1/day each: compulsion, confusion, dominate monster"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 19 (2d12 + 6) piercing damage. If the target is Large or smaller, it is grappled (escape DC 19). While grappling a target, that head cannot Bite another target. If a Bite attack hits a creature already grappled by the head, the grapple ends and the creature is swallowed."
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 12 (1d12 + 6) bludgeoning damage."
+          },
+          {
+            "name": "Mental Revolt (Recharge 6)",
+            "desc": "The Hydra's heads combine to scream their song of mental domination. All creatures within 120 ft. of the Hydra's body must make a DC 20 Wisdom saving throw, taking 34 (6d10) psychic damage on a failed save, or half as much on a success. In addition, the False Hydra is invisible to any creature that fails this saving throw until it attacks that creature. Creatures can use their action to repeat the saving throw to end the invisibility effect. The Hydra cannot take other actions on a turn during which it uses this ability."
+          },
+          {
+            "name": "Swallowed",
+            "desc": "While swallowed, a creature is blinded and restrained, has total cover against attacks and effects outside the Hydra, and takes 17 (3d10) acid damage at the start of the False Hydra's turn. If the Hydra takes 20 damage or more during a round from creatures inside it, it must succeed on a DC 23 Constitution saving throw or regurgitate all swallowed creatures, which fall prone within 10 feet of the head that swallowed them."
+          },
+          {
+            "name": "Retract Neck",
+            "desc": "The head is pulled twice its speed back toward the False Hydra's body. A grappled creature must succeed on a DC 19 Strength saving throw or be pulled along with it. This movement can trigger opportunity attacks."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Legendary Actions (3/Round)",
+            "desc": "The False Hydra can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The False Hydra regains spent legendary actions at the start of its turn."
+          },
+          {
+            "name": "Detect",
+            "desc": "The False Hydra makes a Wisdom (Perception) check."
+          },
+          {
+            "name": "Slam",
+            "desc": "The False Hydra makes one Slam attack."
+          },
+          {
+            "name": "Cast Spell",
+            "desc": "One of the Hydra's heads casts a spell from its Innate Spellcasting list."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "assets/Art/Character%20Art/Monster%20Art/False%20Hydra.jpg"
+      }
+    ],
+    [
+      "Adult Oblex",
+      {
+        "name": "Adult Oblex",
+        "size": "Medium",
+        "type": "ooze",
+        "subtype": "-",
+        "alignment": "lawful evil",
+        "ac": 14,
+        "ac_text": "14",
+        "hp": 75,
+        "hit_dice": "10d8 + 30",
+        "speed": "20 ft.",
+        "stats": [
+          8,
+          19,
+          16,
+          19,
+          14,
+          15
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "blinded, charmed, deafened, exhaustion, prone",
+        "senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 14",
+        "languages": "Common plus two more languages",
+        "cr": "5",
+        "skillsaves": [
+          {
+            "name": "Deception",
+            "desc": "+5"
+          },
+          {
+            "name": "Perception",
+            "desc": "+4"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Amorphous",
+            "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
+          },
+          {
+            "name": "Aversion to Fire",
+            "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn."
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "The oblex's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:\n3/day each: charm person (as 5th-level spell), color spray, detect thoughts, hold person (as 3rd-level spell)"
+          },
+          {
+            "name": "Sulfurous Impersonation",
+            "desc": "As a bonus action, the oblex can extrude a piece of itself that assumes the appearance of one Medium or smaller creature whose memories it has stolen. This simulacrum appears, feels, and sounds exactly like the creature it impersonates, though it smells faintly of sulfur. The oblex can impersonate 1d4 + 1 different creatures, each one tethered to its body by a strand of slime that can extend up to 120 feet away. For all practical purposes, the simulacrum is the oblex, meaning that the oblex occupies its space and the simulacrum's space simultaneously. The slimy tether is immune to damage, but it is severed if there is no opening at least 1 inch wide between the oblex's main body and the simulacrum. The simulacrum disappears if the tether is severed."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The oblex makes one Pseudopod attack and uses Eat Memories."
+          },
+          {
+            "name": "Pseudopod",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 5 (2d4) psychic damage."
+          },
+          {
+            "name": "Eat Memories",
+            "desc": "The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration or heal spell. Constructs, oozes, plants, and undead succeed on the save automatically. While memory drained, the target must roll a d4 and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on until the die becomes a d20, at which point the target becomes unconscious for 1 hour. The effect then ends. When an oblex causes a target to become memory drained, the oblex learns all the languages the target knows and gains all its proficiencies, except for any saving throw proficiencies."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "Oblex Spawn",
+      {
+        "name": "Oblex Spawn",
+        "size": "Tiny",
+        "type": "ooze",
+        "subtype": "-",
+        "alignment": "lawful evil",
+        "ac": 13,
+        "ac_text": "13",
+        "hp": 18,
+        "hit_dice": "4d4 + 8",
+        "speed": "20 ft.",
+        "stats": [
+          8,
+          16,
+          15,
+          14,
+          11,
+          10
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "blinded, charmed, deafened, exhaustion, prone",
+        "senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 10",
+        "languages": "-",
+        "cr": "1/4",
+        "skillsaves": [],
+        "traits": [
+          {
+            "name": "Amorphous",
+            "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
+          },
+          {
+            "name": "Aversion to Fire",
+            "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Pseudopod",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) psychic damage."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
+    ],
+    [
+      "Elder Oblex",
+      {
+        "name": "Elder Oblex",
+        "size": "Huge",
+        "type": "ooze",
+        "subtype": "-",
+        "alignment": "lawful evil",
+        "ac": 16,
+        "ac_text": "16",
+        "hp": 115,
+        "hit_dice": "10d12 + 50",
+        "speed": "20 ft.",
+        "stats": [
+          15,
+          16,
+          21,
+          22,
+          13,
+          18
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "blinded, charmed, deafened, exhaustion, prone",
+        "senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 11",
+        "languages": "Common plus six more languages",
+        "cr": "10",
+        "skillsaves": [
+          {
+            "name": "Arcana",
+            "desc": "+10"
+          },
+          {
+            "name": "Deception",
+            "desc": "+8"
+          },
+          {
+            "name": "History",
+            "desc": "+10"
+          },
+          {
+            "name": "Nature",
+            "desc": "+10"
+          }
+        ],
+        "traits": [
+          {
+            "name": "Amorphous",
+            "desc": "The oblex can move through a space as narrow as 1 inch wide without squeezing."
+          },
+          {
+            "name": "Aversion to Fire",
+            "desc": "If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn."
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "The oblex's innate spellcasting ability is Intelligence (spell save DC 18). It can innately cast the following spells, requiring no material components:\nAt will: charm person (as 5th-level spell), detect thoughts, hold person\n3/day each: confusion, dimension door, dominate person, fear, hallucinatory terrain, hold monster, hypnotic pattern, telekinesis"
+          },
+          {
+            "name": "Sulfurous Impersonation",
+            "desc": "As a bonus action, the oblex can extrude a piece of itself that assumes the appearance of one Medium or smaller creature whose memories it has stolen. This simulacrum appears, feels, and sounds exactly like the creature it impersonates, though it smells faintly of sulfur. The oblex can impersonate 2d6 + 1 different creatures, each one tethered to its body by a strand of slime that can extend up to 120 feet away. For all practical purposes, the simulacrum is the oblex, meaning the oblex occupies its space and the simulacrum's space simultaneously. The slimy tether is immune to damage, but it is severed if there is no opening at least 1 inch wide between the oblex's main body and the simulacrum. The simulacrum disappears if the tether is severed."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The elder oblex makes two Pseudopod attacks and uses Eat Memories."
+          },
+          {
+            "name": "Pseudopod",
+            "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 17 (4d6 + 3) bludgeoning damage plus 7 (2d6) psychic damage."
+          },
+          {
+            "name": "Eat Memories",
+            "desc": "The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 18 Wisdom saving throw or take 44 (8d10) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration or heal spell. Constructs, oozes, plants, and undead succeed on the save automatically. While memory drained, the target must roll a d4 and subtract the number rolled from any ability check or attack roll it makes. Each time the target is memory drained beyond the first, the die size increases by one: the d4 becomes a d6, the d6 becomes a d8, and so on until the die becomes a d20, at which point the target becomes unconscious for 1 hour. The effect then ends. When an oblex causes a target to become memory drained, the oblex learns all the languages the target knows and gains all its proficiencies, except any saving throw proficiencies."
+          }
+        ],
+        "source": "FoundryVTT Import",
+        "image": "--------"
+      }
     ]
   ],
   "defaultLayouts": {},

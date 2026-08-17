@@ -1,0 +1,1 @@
+The night sky of Talahm is often described with musical notations. Obvious examples are the moons [[L'oeuvre]] and [[Chœurs]], but others, such as the [[Melody]], which is a long band of stars in the sky. And the [[Solos]], which is the name for Planets in the night sky.

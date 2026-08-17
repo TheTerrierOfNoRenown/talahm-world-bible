@@ -15,7 +15,7 @@ tags:
 **Size:** Medium (about 5-6 feet tall  
 **Speed:** 30 feet  
 As an Elf, you have these special traits  
-**Darkvision.** You have Darkvision with a range of 60 feet  
+**Darkvision.** You have Darkvision with a range of 120 feet  
 **Elven Lineage.** You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.  
 When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).

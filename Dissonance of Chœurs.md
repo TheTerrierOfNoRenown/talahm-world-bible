@@ -1,0 +1,1 @@
+Also referred to as a Counter of Chœurs, or simply a Divisi. A Dissonance of Chœurs is an irregular astronomic event where the second moon, Chœurs, leaves its Paren't moone L'œure and circumnavigates Talahm once before rejoining. this is part of the [[Musical Theme of The Night Sky]]

@@ -6,8 +6,7 @@ The Dean of Telenast, **Archwizard Pyrite Lightscatter** is a Crystal Dragon and
  
 The Chair of Abjuration and Runes, is a thin dwarfish man often mistaken for a gnome with a bushy beard, **Diedrich Bristlebroom**, travels the halls in his magical light construct, which resembles a sphere with magical armored legs and arms, almost like a battle platform walking through the halls of the university.
  
-The Chair of Conjuration and Magical Creatures **Ahnkn**  
-**asht the Unconquerable** is a Beholder with a fondness for small furry creatures, which he keeps in his office and classrooms.
+The Chair of Conjuration and Magical Creatures **Ahnknasht the Unconquerable** is a Beholder with a fondness for small furry creatures, which he keeps in his office and classrooms.
  
 The Chair of Divination and Astrology, **Dämmerung the Giant of Telenast**, is an Eclipse Giant and senior member of the board, dating back to the founding of Telenast, and is the reason for the Cathedral-Like scale of the University, as it needs to be big enough for him to move throughout the halls. Oddly enough, while Dämmerung is known to have a preternatural ability to predict events, he likens that to an advanced Mathematics formula rather than magic, this has sparked debate as to exactly what the difference really is.
  

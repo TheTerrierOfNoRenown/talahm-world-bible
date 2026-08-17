@@ -1,1 +1,0 @@
-A irregular astronomic event where the second moon, Chœurs, leaves its Paren't moone L'œure and circumnavigates Talahm once before rejoining.
